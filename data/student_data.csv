@@ -1,0 +1,501 @@
+student_id,cgpa,weekly_accuracy,week1_accuracy,week2_accuracy,week3_accuracy,week4_accuracy,avg_response_time_sec,topics_attempted,attendance_rate,accuracy_trend,concept_gap_score,engagement_consistency,topics_list,weak_topics,learning_state
+STU0001,5.74,0.6551,0.6446,0.672,0.6657,0.6379,44.45,6,0.6519,0.0035,0.4825,1.5959,NLP|Probability|SQL|System Design|Algorithms|Deep Learning,Probability|System Design,PLATEAUING
+STU0002,6.09,1.0,1.0,1.0,1.0,1.0,22.02,9,0.9591,0.0339,0.1587,0.9142,NLP|System Design|Deep Learning|Computer Vision|Algorithms|Statistics|SQL|Probability|Python Basics,Statistics,MASTERED
+STU0003,9.26,0.7149,0.6426,0.6893,0.7255,0.802,36.2,9,0.84,0.0448,0.257,1.5868,OOP|Algorithms|Deep Learning|Probability|Linear Algebra|Computer Vision|ML Fundamentals|Data Structures|Statistics,Algorithms|Computer Vision,PROGRESSING
+STU0004,7.49,0.7558,0.7169,0.7493,0.7603,0.7968,45.59,6,0.7643,0.0492,0.2407,1.4298,Data Structures|Deep Learning|ML Fundamentals|APIs|Statistics|OOP,Data Structures,PROGRESSING
+STU0005,8.01,0.2249,0.3545,0.2652,0.1947,0.0853,65.56,4,0.5341,-0.0739,0.6917,2.492,NLP|Probability|OOP|Data Structures,OOP|Data Structures,STRUGGLING
+STU0006,6.61,0.2809,0.3552,0.3041,0.2571,0.2074,73.2,4,0.4889,-0.0418,0.811,3.1601,Python Basics|APIs|Probability|ML Fundamentals,Python Basics|ML Fundamentals|APIs,STRUGGLING
+STU0007,8.43,0.2187,0.2494,0.242,0.2159,0.1675,93.66,5,0.5024,-0.0223,0.6886,2.9037,Probability|System Design|Computer Vision|APIs|Deep Learning,Deep Learning|Computer Vision|Probability,STRUGGLING
+STU0008,7.18,0.9781,0.9413,0.9711,1.0,1.0,21.3,9,0.9969,0.0203,0.1115,0.3144,Deep Learning|Computer Vision|Probability|ML Fundamentals|NLP|Data Structures|Linear Algebra|Python Basics|SQL,Computer Vision,MASTERED
+STU0009,7.47,0.7757,0.7417,0.7678,0.7796,0.8137,23.86,8,0.7952,0.0244,0.3136,1.2527,System Design|OOP|Computer Vision|Probability|Data Structures|NLP|SQL|ML Fundamentals,SQL|ML Fundamentals,PROGRESSING
+STU0010,5.8,0.8139,0.7321,0.7856,0.8556,0.8825,42.74,9,0.8549,0.0306,0.2239,1.431,Statistics|Computer Vision|Deep Learning|ML Fundamentals|OOP|SQL|Linear Algebra|Python Basics|Data Structures,Data Structures|SQL,PROGRESSING
+STU0011,8.02,0.0746,0.1368,0.0618,0.05,0.05,82.53,4,0.4367,-0.0679,0.7547,3.8896,Linear Algebra|Python Basics|APIs|Deep Learning,Deep Learning|Linear Algebra|APIs,STRUGGLING
+STU0012,8.79,0.8702,0.8704,0.8718,0.8771,0.8615,11.64,10,0.9489,0.0025,0.0567,0.7554,APIs|SQL|Computer Vision|Data Structures|System Design|ML Fundamentals|Probability|Statistics|Python Basics|Linear Algebra,System Design,MASTERED
+STU0013,6.03,0.867,0.8602,0.8553,0.8712,0.8813,9.02,10,1.0,0.016,0.0859,0.7491,Statistics|System Design|Probability|SQL|Computer Vision|Deep Learning|ML Fundamentals|Algorithms|Linear Algebra|Data Structures,Deep Learning,MASTERED
+STU0014,9.37,0.3054,0.3498,0.2988,0.278,0.2952,79.48,4,0.4748,-0.0074,0.7684,3.0654,Probability|Deep Learning|SQL|System Design,Probability|SQL|System Design,STRUGGLING
+STU0015,5.79,0.4046,0.4225,0.4365,0.386,0.3734,87.83,3,0.5271,-0.0271,0.6237,3.4856,NLP|Computer Vision|Algorithms,NLP,STRUGGLING
+STU0016,8.94,0.476,0.4554,0.4972,0.4725,0.4789,79.99,3,0.6477,-0.0279,0.6001,3.5811,Deep Learning|SQL|ML Fundamentals,Deep Learning,STRUGGLING
+STU0017,8.5,0.6802,0.6619,0.6701,0.6819,0.707,47.57,5,0.7785,-0.0055,0.416,2.7176,SQL|APIs|ML Fundamentals|OOP|Python Basics,OOP|SQL,PLATEAUING
+STU0018,7.49,0.9448,0.8385,0.9407,1.0,1.0,36.22,7,0.8631,0.087,0.3526,1.7064,OOP|Computer Vision|Linear Algebra|Data Structures|Algorithms|System Design|ML Fundamentals,Linear Algebra|OOP,PROGRESSING
+STU0019,8.42,0.6449,0.7011,0.6889,0.6269,0.5629,41.56,6,0.6106,-0.0121,0.4812,1.9485,Deep Learning|Algorithms|System Design|Probability|APIs|ML Fundamentals,Algorithms|Probability,PLATEAUING
+STU0020,8.72,0.6805,0.6751,0.6855,0.6969,0.6644,49.69,5,0.6367,0.0033,0.3709,2.8198,Statistics|Deep Learning|APIs|Probability|Algorithms,Algorithms,PLATEAUING
+STU0021,7.74,0.7025,0.6287,0.6824,0.7216,0.7771,39.77,10,0.737,0.0707,0.3373,1.948,OOP|Deep Learning|Algorithms|SQL|NLP|Probability|Python Basics|Computer Vision|Linear Algebra|APIs,Probability|Python Basics|SQL,PROGRESSING
+STU0022,5.96,0.0835,0.1592,0.0748,0.05,0.05,68.33,2,0.4411,-0.064,0.8023,3.9105,ML Fundamentals|OOP,ML Fundamentals,STRUGGLING
+STU0023,5.6,0.6659,0.6661,0.6527,0.6485,0.6963,62.7,5,0.7576,0.0006,0.5238,2.761,Computer Vision|Python Basics|OOP|Probability|SQL,Python Basics|SQL,PLATEAUING
+STU0024,6.16,0.6618,0.6759,0.6711,0.6695,0.6307,40.04,7,0.6301,0.0028,0.4213,2.7122,NLP|Linear Algebra|APIs|Statistics|Deep Learning|Algorithms|SQL,Linear Algebra|APIs,PLATEAUING
+STU0025,8.6,0.57,0.6013,0.5836,0.5509,0.5442,33.5,6,0.8011,0.0109,0.4095,2.4115,Deep Learning|NLP|Algorithms|SQL|Python Basics|APIs,SQL|Deep Learning,PLATEAUING
+STU0026,6.78,0.9583,0.8826,0.9504,1.0,1.0,45.33,9,0.8434,0.0686,0.29,1.6501,Linear Algebra|Statistics|OOP|Python Basics|SQL|NLP|Computer Vision|Probability|APIs,SQL|Statistics,PROGRESSING
+STU0027,7.64,0.5176,0.4864,0.5367,0.5233,0.5242,78.44,4,0.5473,0.0096,0.6906,4.0398,Data Structures|Algorithms|Python Basics|NLP,NLP|Algorithms,STRUGGLING
+STU0028,9.42,0.8269,0.7003,0.7777,0.8701,0.9595,50.68,10,0.8423,0.088,0.2323,1.1487,ML Fundamentals|Algorithms|Statistics|Deep Learning|System Design|Linear Algebra|Computer Vision|OOP|Python Basics|Data Structures,ML Fundamentals|System Design,PROGRESSING
+STU0029,6.52,0.7399,0.6603,0.7443,0.7458,0.8091,38.91,7,0.8511,0.0406,0.2788,1.0812,Linear Algebra|NLP|Probability|Algorithms|Statistics|OOP|APIs,NLP,PROGRESSING
+STU0030,5.88,0.3132,0.3493,0.3214,0.3002,0.282,64.47,5,0.5375,-0.0468,0.7443,3.1471,APIs|OOP|NLP|Computer Vision|Linear Algebra,Computer Vision|Linear Algebra|APIs,STRUGGLING
+STU0031,9.56,0.6553,0.5799,0.6423,0.6708,0.7282,40.76,7,0.7881,0.0548,0.2608,1.1979,Probability|Computer Vision|ML Fundamentals|OOP|Python Basics|Statistics|Algorithms,Algorithms,PROGRESSING
+STU0032,6.91,0.3631,0.3996,0.3429,0.356,0.354,80.98,2,0.4115,-0.0194,0.8449,3.4683,NLP|ML Fundamentals,NLP,STRUGGLING
+STU0033,7.73,0.4266,0.4142,0.4495,0.456,0.3867,80.79,5,0.632,-0.019,0.7682,2.7442,Computer Vision|Probability|SQL|Statistics|Data Structures,Statistics|Data Structures|Probability,STRUGGLING
+STU0034,7.75,0.9669,0.9445,0.963,0.9877,0.9725,17.92,10,0.9836,0.0114,0.1214,1.0243,Python Basics|Algorithms|NLP|Deep Learning|Computer Vision|Probability|APIs|System Design|Statistics|SQL,NLP,MASTERED
+STU0035,8.98,0.9449,0.8872,0.9231,0.9693,1.0,24.25,13,0.9511,0.0298,0.1847,0.4536,OOP|Algorithms|SQL|APIs|System Design|NLP|Python Basics|Data Structures|Computer Vision|Probability|Statistics|Linear Algebra|ML Fundamentals,Statistics|Python Basics,MASTERED
+STU0036,8.06,0.9396,0.9222,0.9648,0.9288,0.9427,16.0,13,1.0,0.0061,0.1026,0.5581,NLP|Algorithms|SQL|System Design|Computer Vision|Python Basics|Linear Algebra|Probability|ML Fundamentals|APIs|Data Structures|Statistics|Deep Learning,Probability,MASTERED
+STU0037,6.36,0.5958,0.5865,0.6341,0.5995,0.5633,40.52,8,0.808,-0.0126,0.4871,2.7356,Computer Vision|NLP|Probability|Statistics|SQL|System Design|Algorithms|OOP,OOP|Algorithms|Probability,PLATEAUING
+STU0038,9.53,0.3024,0.3353,0.2996,0.2869,0.2878,67.41,5,0.5555,-0.025,0.7523,2.319,Deep Learning|NLP|Computer Vision|OOP|APIs,Computer Vision|APIs|OOP,STRUGGLING
+STU0039,7.97,0.7647,0.675,0.714,0.8071,0.8625,41.39,8,0.7805,0.0226,0.3255,1.997,Linear Algebra|Computer Vision|Data Structures|Probability|Statistics|Python Basics|Algorithms|SQL,Algorithms|Linear Algebra,PROGRESSING
+STU0040,8.49,0.5266,0.6082,0.5487,0.5181,0.4315,56.8,6,0.7716,-0.0121,0.4362,1.7022,Linear Algebra|Python Basics|SQL|APIs|NLP|Statistics,APIs|NLP,PLATEAUING
+STU0041,5.58,0.3111,0.4159,0.3375,0.2889,0.2023,58.88,5,0.4111,-0.054,0.6524,3.7656,NLP|APIs|Probability|Python Basics|Algorithms,Python Basics|NLP|Probability,STRUGGLING
+STU0042,9.38,0.5205,0.5174,0.5371,0.5076,0.52,37.99,8,0.5825,0.0111,0.4327,2.4645,SQL|OOP|Data Structures|Algorithms|APIs|Deep Learning|NLP|Computer Vision,Deep Learning|Data Structures|Algorithms,PLATEAUING
+STU0043,7.71,0.2747,0.3367,0.3221,0.2322,0.2079,78.91,5,0.5695,-0.0276,0.5708,3.1714,Computer Vision|Statistics|Python Basics|Data Structures|ML Fundamentals,Computer Vision|Data Structures,STRUGGLING
+STU0044,5.55,0.9822,0.9441,0.9846,1.0,1.0,24.08,9,0.8343,0.0431,0.1135,0.7118,Statistics|Computer Vision|OOP|SQL|ML Fundamentals|APIs|Deep Learning|Linear Algebra|NLP,ML Fundamentals,MASTERED
+STU0045,8.76,0.7483,0.7219,0.7581,0.7695,0.7439,41.87,5,0.7198,0.0121,0.4922,2.8146,Linear Algebra|Python Basics|NLP|Probability|System Design,NLP|System Design,PLATEAUING
+STU0046,8.72,0.6382,0.6162,0.6239,0.6375,0.6751,31.65,7,0.8119,0.0356,0.3758,1.6223,ML Fundamentals|OOP|Linear Algebra|Algorithms|SQL|Python Basics|Probability,SQL|Linear Algebra,PROGRESSING
+STU0047,8.41,0.6707,0.6164,0.66,0.7091,0.6975,53.59,6,0.7248,0.0021,0.5172,2.3115,NLP|Probability|OOP|Data Structures|APIs|Linear Algebra,NLP|Data Structures|Linear Algebra,PLATEAUING
+STU0048,6.94,0.8554,0.8178,0.8498,0.853,0.9009,29.41,10,0.734,0.0489,0.2749,1.6489,Data Structures|System Design|OOP|NLP|SQL|Deep Learning|Python Basics|Statistics|ML Fundamentals|Computer Vision,OOP|ML Fundamentals,PROGRESSING
+STU0049,5.75,0.5311,0.5435,0.4948,0.5336,0.5525,46.22,10,0.7244,0.0136,0.2886,0.8057,Computer Vision|Statistics|NLP|Algorithms|Linear Algebra|Python Basics|OOP|Data Structures|Probability|Deep Learning,Linear Algebra|NLP,PROGRESSING
+STU0050,9.72,0.2668,0.3174,0.2771,0.2422,0.2305,61.06,2,0.4619,-0.0066,0.6232,3.1374,OOP|Python Basics,Python Basics,STRUGGLING
+STU0051,5.98,0.9844,0.9375,1.0,1.0,1.0,9.96,12,1.0,0.0267,0.1573,0.4393,SQL|OOP|Computer Vision|Deep Learning|Statistics|NLP|Probability|Algorithms|System Design|APIs|Data Structures|Linear Algebra,SQL,MASTERED
+STU0052,6.69,0.9069,0.827,0.8848,0.9338,0.9821,33.43,9,0.9061,0.0439,0.232,1.4645,APIs|Statistics|Data Structures|Computer Vision|Linear Algebra|Algorithms|Deep Learning|ML Fundamentals|OOP,Algorithms|ML Fundamentals,PROGRESSING
+STU0053,7.34,0.9298,0.9201,0.9137,0.9288,0.9567,14.06,12,0.9363,0.0352,0.217,0.1312,System Design|Data Structures|Python Basics|Computer Vision|OOP|Deep Learning|APIs|ML Fundamentals|SQL|Linear Algebra|Algorithms|Probability,Linear Algebra|Python Basics,MASTERED
+STU0054,9.71,1.0,1.0,1.0,1.0,1.0,19.36,12,0.9665,0.0365,0.0735,1.0739,Algorithms|ML Fundamentals|Deep Learning|Computer Vision|Data Structures|SQL|OOP|Probability|Python Basics|Linear Algebra|NLP|Statistics,NLP,MASTERED
+STU0055,7.13,0.7675,0.7339,0.7312,0.7952,0.8099,45.49,6,0.6915,0.023,0.3584,1.5527,Algorithms|NLP|ML Fundamentals|Linear Algebra|System Design|Data Structures,Algorithms|Linear Algebra,PROGRESSING
+STU0056,8.7,0.9637,0.9067,0.9483,1.0,1.0,22.08,10,0.9209,0.0344,0.0826,1.1208,APIs|Data Structures|System Design|Computer Vision|Deep Learning|Algorithms|Python Basics|Probability|Linear Algebra|Statistics,Statistics,MASTERED
+STU0057,7.73,0.1582,0.166,0.1459,0.1469,0.174,87.68,4,0.6573,-0.0222,0.6385,3.6251,Data Structures|Probability|System Design|ML Fundamentals,System Design|ML Fundamentals,STRUGGLING
+STU0058,9.4,0.2942,0.34,0.3129,0.2822,0.2417,74.0,4,0.6652,-0.0255,0.8217,3.0009,SQL|OOP|Statistics|Data Structures,SQL|Statistics|OOP,STRUGGLING
+STU0059,8.52,0.2049,0.2563,0.1995,0.169,0.1949,77.66,5,0.5073,-0.0481,0.5152,2.9334,Data Structures|Linear Algebra|SQL|OOP|APIs,OOP|Linear Algebra,STRUGGLING
+STU0060,8.28,0.5928,0.5913,0.5783,0.5891,0.6125,53.15,5,0.7112,0.0012,0.558,2.7119,Probability|Deep Learning|ML Fundamentals|Algorithms|Linear Algebra,Linear Algebra|Algorithms,PLATEAUING
+STU0061,6.68,0.6694,0.6807,0.6795,0.6802,0.6371,46.65,5,0.7212,0.012,0.3598,2.8624,OOP|Algorithms|Data Structures|NLP|SQL,SQL,PLATEAUING
+STU0062,9.14,0.5902,0.5993,0.6257,0.5778,0.5581,53.55,8,0.7688,0.0123,0.3457,2.9561,Computer Vision|ML Fundamentals|Algorithms|Data Structures|Probability|OOP|Linear Algebra|APIs,Probability|ML Fundamentals,PLATEAUING
+STU0063,8.11,0.9813,0.9471,0.978,1.0,1.0,18.79,10,0.8779,0.0335,0.1827,0.6864,Algorithms|Linear Algebra|Python Basics|SQL|NLP|Deep Learning|Computer Vision|Probability|APIs|Statistics,Statistics,MASTERED
+STU0064,7.2,0.565,0.5716,0.5598,0.5589,0.5697,42.36,5,0.789,-0.0279,0.33,1.7218,ML Fundamentals|Deep Learning|APIs|Algorithms|System Design,System Design,PLATEAUING
+STU0065,7.41,0.5376,0.4979,0.5461,0.5456,0.5609,49.34,8,0.716,0.0112,0.4023,1.606,Data Structures|Computer Vision|NLP|Statistics|System Design|Python Basics|OOP|Algorithms,OOP|Statistics|Python Basics,PLATEAUING
+STU0066,5.56,0.8959,0.8212,0.8694,0.9082,0.9849,54.99,8,0.6914,0.0562,0.3185,1.2188,SQL|Algorithms|Deep Learning|Probability|Python Basics|APIs|OOP|NLP,Python Basics|APIs,PROGRESSING
+STU0067,6.54,0.4186,0.4466,0.4159,0.4267,0.3852,82.18,5,0.5804,-0.0226,0.5981,3.7662,Python Basics|Deep Learning|SQL|Computer Vision|APIs,APIs|Computer Vision,STRUGGLING
+STU0068,8.6,0.998,1.0,1.0,0.9921,1.0,14.01,11,0.9477,0.0313,0.1418,0.1084,Python Basics|OOP|Computer Vision|Statistics|Data Structures|Linear Algebra|Algorithms|ML Fundamentals|NLP|SQL|Probability,OOP,MASTERED
+STU0069,7.37,0.153,0.277,0.1839,0.0951,0.0559,87.54,2,0.4841,-0.0691,0.5638,2.9764,NLP|Probability,Probability,STRUGGLING
+STU0070,9.04,0.9841,0.9935,0.9806,0.9744,0.9879,26.01,10,0.9554,0.0048,0.0839,0.1399,NLP|System Design|Deep Learning|ML Fundamentals|Probability|APIs|Python Basics|Data Structures|Linear Algebra|Algorithms,Linear Algebra,MASTERED
+STU0071,5.64,0.8677,0.8216,0.8397,0.8638,0.9456,44.55,10,0.7416,0.0258,0.3753,1.6901,Probability|Linear Algebra|System Design|NLP|Data Structures|Deep Learning|ML Fundamentals|APIs|Computer Vision|OOP,Computer Vision|System Design|ML Fundamentals,PROGRESSING
+STU0072,8.11,0.3679,0.4518,0.3872,0.3334,0.2992,83.96,2,0.6172,-0.0646,0.7852,2.8945,ML Fundamentals|Data Structures,Data Structures,STRUGGLING
+STU0073,7.77,0.1423,0.2373,0.1752,0.1066,0.05,61.23,3,0.6457,-0.0544,0.6089,3.1997,ML Fundamentals|SQL|Statistics,SQL,STRUGGLING
+STU0074,8.33,0.9912,1.0,0.9733,0.9914,1.0,26.05,10,0.9341,0.0135,0.0303,0.2898,Deep Learning|System Design|Computer Vision|Python Basics|SQL|APIs|NLP|Algorithms|OOP|Data Structures,OOP,MASTERED
+STU0075,9.63,0.733,0.6417,0.7009,0.7728,0.8165,39.1,9,0.8023,0.0627,0.1805,1.4151,APIs|OOP|ML Fundamentals|SQL|NLP|System Design|Deep Learning|Computer Vision|Probability,OOP,PROGRESSING
+STU0076,5.75,0.8921,0.8008,0.8671,0.9154,0.985,45.86,10,0.8027,0.0662,0.2761,1.1015,Algorithms|Statistics|Python Basics|Probability|Data Structures|OOP|Deep Learning|NLP|ML Fundamentals|Computer Vision,Computer Vision|Data Structures,PROGRESSING
+STU0077,7.64,0.769,0.6963,0.75,0.7892,0.8403,35.03,6,0.9017,0.0398,0.2086,0.801,Deep Learning|Linear Algebra|Python Basics|ML Fundamentals|Data Structures|SQL,Deep Learning,PROGRESSING
+STU0078,5.54,0.1663,0.2327,0.1808,0.1601,0.0915,80.95,4,0.452,-0.0539,0.7817,2.749,ML Fundamentals|OOP|Data Structures|Linear Algebra,ML Fundamentals|OOP|Linear Algebra,STRUGGLING
+STU0079,8.86,0.6343,0.6327,0.6234,0.6271,0.654,34.52,8,0.727,0.0199,0.4389,2.5751,OOP|Data Structures|Python Basics|Linear Algebra|System Design|Computer Vision|Statistics|Probability,OOP|System Design|Probability,PLATEAUING
+STU0080,9.57,0.0833,0.1494,0.0838,0.05,0.05,76.37,3,0.4935,-0.0593,0.7324,3.7916,NLP|Data Structures|Deep Learning,Data Structures|NLP,STRUGGLING
+STU0081,7.66,0.984,0.936,1.0,1.0,1.0,15.35,11,0.9246,0.0136,0.1343,1.0206,Data Structures|Algorithms|SQL|Deep Learning|Linear Algebra|Computer Vision|System Design|APIs|ML Fundamentals|Probability|Python Basics,SQL,MASTERED
+STU0082,8.22,0.921,0.8398,0.8727,0.9716,1.0,48.14,6,0.8123,0.0833,0.2318,1.3842,Deep Learning|Probability|SQL|System Design|Linear Algebra|Statistics,SQL,PROGRESSING
+STU0083,9.66,0.5197,0.5394,0.5126,0.5104,0.5166,52.89,6,0.6447,-0.009,0.5387,2.868,Statistics|Algorithms|NLP|APIs|ML Fundamentals|OOP,Statistics|OOP|ML Fundamentals,PLATEAUING
+STU0084,5.53,0.2504,0.2552,0.2099,0.2594,0.277,65.94,4,0.4565,0.0102,0.7199,3.5311,Statistics|System Design|NLP|ML Fundamentals,Statistics|ML Fundamentals,STRUGGLING
+STU0085,9.02,0.6535,0.6498,0.6654,0.6488,0.6502,44.77,7,0.6671,0.0044,0.4283,1.9655,Linear Algebra|Data Structures|Deep Learning|ML Fundamentals|System Design|Python Basics|APIs,APIs|Linear Algebra,PLATEAUING
+STU0086,7.08,0.4864,0.498,0.483,0.4847,0.4798,57.05,5,0.6428,-0.0268,0.3787,2.4535,Computer Vision|SQL|Linear Algebra|Statistics|System Design,Statistics,PLATEAUING
+STU0087,8.88,0.9446,0.8418,0.9367,1.0,1.0,51.11,9,0.7347,0.0665,0.2276,2.2894,Statistics|Data Structures|Linear Algebra|OOP|Python Basics|APIs|Probability|NLP|Algorithms,NLP|Linear Algebra,PROGRESSING
+STU0088,9.3,0.8614,0.7525,0.8346,0.8966,0.9618,26.84,6,0.9223,0.071,0.2828,0.9304,SQL|ML Fundamentals|OOP|Data Structures|NLP|Algorithms,Algorithms,PROGRESSING
+STU0089,7.27,0.8985,0.899,0.886,0.8991,0.9098,11.33,12,0.937,0.0211,0.1178,0.4464,Data Structures|Python Basics|NLP|Statistics|SQL|OOP|ML Fundamentals|APIs|Linear Algebra|Deep Learning|Algorithms|Probability,Statistics,MASTERED
+STU0090,8.9,0.6251,0.6188,0.6169,0.6349,0.6299,52.91,6,0.6055,-0.0085,0.3916,2.2072,APIs|Data Structures|Deep Learning|Probability|NLP|Python Basics,Python Basics|Data Structures,PLATEAUING
+STU0091,8.61,0.1998,0.2739,0.2381,0.1719,0.1154,84.65,3,0.4394,-0.055,0.7707,3.2709,Python Basics|Algorithms|Data Structures,Python Basics|Algorithms,STRUGGLING
+STU0092,6.17,0.7188,0.6541,0.7206,0.7254,0.7752,44.45,6,0.8022,0.0257,0.3154,1.7242,APIs|System Design|Data Structures|SQL|Statistics|OOP,SQL,PROGRESSING
+STU0093,8.06,0.9052,0.7929,0.8914,0.9502,0.9862,29.88,8,0.7281,0.0698,0.3655,1.8937,APIs|SQL|Linear Algebra|Probability|Statistics|NLP|System Design|Algorithms,System Design|Linear Algebra,PROGRESSING
+STU0094,9.05,0.9331,0.8302,0.9203,0.9819,1.0,40.32,9,0.7428,0.0756,0.2009,0.8999,Python Basics|OOP|SQL|Linear Algebra|Probability|Statistics|Deep Learning|Algorithms|System Design,Deep Learning,PROGRESSING
+STU0095,8.41,0.9259,0.8245,0.9166,0.9626,1.0,52.38,10,0.7373,0.0779,0.3534,0.9502,APIs|System Design|Algorithms|Statistics|Linear Algebra|Probability|OOP|Computer Vision|Deep Learning|SQL,System Design|Computer Vision|OOP,PROGRESSING
+STU0096,5.8,0.697,0.6424,0.6744,0.7291,0.7422,41.26,5,0.7046,0.0095,0.5742,3.1961,System Design|Linear Algebra|Computer Vision|Python Basics|SQL,Linear Algebra|Python Basics,PLATEAUING
+STU0097,6.49,0.9039,0.7777,0.8758,0.9619,1.0,41.25,7,0.7007,0.0665,0.2124,1.551,Deep Learning|Algorithms|System Design|Linear Algebra|Computer Vision|Probability|Python Basics,Computer Vision,PROGRESSING
+STU0098,7.78,0.5899,0.5588,0.5962,0.6008,0.6039,52.13,8,0.7246,0.0038,0.5567,2.6284,System Design|SQL|Linear Algebra|Probability|NLP|Data Structures|Computer Vision|ML Fundamentals,NLP|System Design|ML Fundamentals|Computer Vision,PLATEAUING
+STU0099,6.82,0.3342,0.4194,0.361,0.3163,0.2401,60.63,5,0.4306,-0.0762,0.7198,2.579,Computer Vision|Python Basics|System Design|SQL|OOP,Python Basics|SQL|System Design,STRUGGLING
+STU0100,9.02,0.3696,0.3746,0.3932,0.3493,0.3614,71.39,4,0.586,-0.0294,0.7192,2.8104,Statistics|ML Fundamentals|System Design|NLP,ML Fundamentals|System Design,STRUGGLING
+STU0101,9.13,0.2589,0.3172,0.2752,0.2389,0.2043,72.16,5,0.6626,-0.0254,0.7313,2.9244,System Design|SQL|Statistics|APIs|OOP,SQL|OOP|System Design,STRUGGLING
+STU0102,9.8,0.7674,0.7516,0.7656,0.7769,0.7756,31.91,10,0.858,0.0352,0.3164,1.4152,ML Fundamentals|SQL|Statistics|Python Basics|Linear Algebra|Algorithms|OOP|Computer Vision|Probability|Deep Learning,Python Basics|Computer Vision|Deep Learning,PROGRESSING
+STU0103,9.18,0.6179,0.6142,0.6304,0.6069,0.6201,53.89,8,0.6799,-0.0156,0.3702,2.7352,Statistics|Deep Learning|Data Structures|Algorithms|Linear Algebra|SQL|ML Fundamentals|OOP,SQL|Algorithms,PLATEAUING
+STU0104,5.84,0.913,0.8036,0.8889,0.9594,1.0,24.02,10,0.7231,0.0422,0.3307,1.8553,Computer Vision|Linear Algebra|APIs|NLP|System Design|Probability|Python Basics|Data Structures|ML Fundamentals|Algorithms,Data Structures|Probability|System Design,PROGRESSING
+STU0105,6.85,0.8924,0.9063,0.8669,0.8839,0.9125,15.46,12,0.9662,0.0016,0.0663,0.4845,Computer Vision|Deep Learning|SQL|ML Fundamentals|Python Basics|Linear Algebra|Data Structures|Algorithms|Statistics|APIs|Probability|OOP,Computer Vision,MASTERED
+STU0106,5.55,0.1213,0.1759,0.1394,0.1197,0.05,69.75,3,0.5121,-0.075,0.8453,3.7801,Python Basics|Computer Vision|System Design,System Design|Computer Vision,STRUGGLING
+STU0107,6.44,0.7444,0.6995,0.7494,0.7524,0.7764,34.22,5,0.672,0.0123,0.5011,2.426,Python Basics|Linear Algebra|OOP|SQL|Statistics,Linear Algebra|OOP,PLATEAUING
+STU0108,6.84,0.7381,0.6273,0.7194,0.7792,0.8266,48.03,6,0.8393,0.0509,0.2401,1.2568,Computer Vision|Probability|Deep Learning|Data Structures|System Design|APIs,Data Structures,PROGRESSING
+STU0109,5.8,0.1914,0.2326,0.2105,0.2007,0.1218,78.29,4,0.607,-0.0373,0.8089,3.1665,Statistics|Computer Vision|ML Fundamentals|SQL,ML Fundamentals|Statistics|SQL,STRUGGLING
+STU0110,9.13,0.1817,0.2208,0.2057,0.1759,0.1242,55.28,5,0.4745,-0.0218,0.6511,4.0013,Probability|Python Basics|Deep Learning|APIs|Linear Algebra,Probability|Deep Learning|APIs,STRUGGLING
+STU0111,8.1,0.629,0.6127,0.6135,0.6337,0.656,59.84,8,0.6873,0.0054,0.5319,1.89,System Design|Deep Learning|Data Structures|APIs|Linear Algebra|Algorithms|Probability|NLP,APIs|System Design|Algorithms|Deep Learning,PLATEAUING
+STU0112,6.08,0.226,0.2048,0.2347,0.223,0.2416,64.6,5,0.5414,0.004,0.7876,3.7211,ML Fundamentals|Python Basics|Algorithms|Statistics|System Design,Statistics|Algorithms|ML Fundamentals,STRUGGLING
+STU0113,6.2,0.9651,0.8999,0.9607,1.0,1.0,26.75,9,0.8538,0.0291,0.2088,0.2748,Python Basics|NLP|APIs|Statistics|System Design|Algorithms|OOP|Computer Vision|Data Structures,APIs,MASTERED
+STU0114,6.98,0.8381,0.8804,0.858,0.8207,0.7933,8.6,13,0.8818,0.0044,0.009,0.2079,ML Fundamentals|OOP|NLP|Data Structures|APIs|Python Basics|Computer Vision|Probability|SQL|Deep Learning|Algorithms|Linear Algebra|Statistics,Algorithms,MASTERED
+STU0115,8.36,0.7732,0.6915,0.7822,0.8271,0.792,28.97,6,0.859,0.0565,0.2118,0.8262,ML Fundamentals|Python Basics|Data Structures|APIs|NLP|Algorithms,ML Fundamentals,PROGRESSING
+STU0116,6.69,0.9283,0.8696,0.9162,0.9493,0.978,15.61,10,0.8737,0.0277,0.0855,0.327,Python Basics|Computer Vision|ML Fundamentals|APIs|Deep Learning|Statistics|Algorithms|Linear Algebra|Data Structures|NLP,Algorithms,MASTERED
+STU0117,8.97,0.9609,0.9502,0.9678,0.937,0.9884,25.7,10,0.9357,-0.0003,0.0835,0.2764,ML Fundamentals|Statistics|OOP|Python Basics|NLP|Deep Learning|SQL|Data Structures|Algorithms|Linear Algebra,SQL,MASTERED
+STU0118,6.05,0.1452,0.1823,0.1789,0.134,0.0858,75.1,3,0.6152,-0.0498,0.568,3.0608,System Design|APIs|Computer Vision,Computer Vision,STRUGGLING
+STU0119,9.75,0.868,0.8812,0.8639,0.8663,0.8605,23.44,11,0.834,0.013,0.0858,0.7342,Deep Learning|Probability|Data Structures|System Design|APIs|ML Fundamentals|Computer Vision|Python Basics|Statistics|OOP|SQL,Probability,MASTERED
+STU0120,7.41,0.971,0.8853,0.9987,1.0,1.0,32.1,6,0.8384,0.0825,0.4134,1.2255,Data Structures|Algorithms|Statistics|Python Basics|System Design|NLP,NLP|Statistics,PROGRESSING
+STU0121,8.52,0.984,0.9516,0.9845,1.0,1.0,13.76,12,0.9182,0.0178,0.208,1.1243,Deep Learning|System Design|Statistics|Probability|Python Basics|NLP|SQL|Computer Vision|Linear Algebra|OOP|APIs|Data Structures,Linear Algebra|System Design,MASTERED
+STU0122,9.55,0.9646,0.9908,0.9672,0.9318,0.9685,18.74,9,0.8739,0.0028,0.1493,1.3181,Deep Learning|NLP|APIs|SQL|Python Basics|OOP|Statistics|ML Fundamentals|Linear Algebra,ML Fundamentals,MASTERED
+STU0123,6.0,0.6748,0.6707,0.6389,0.6732,0.7165,57.21,8,0.7238,-0.0088,0.5537,2.7465,Computer Vision|Deep Learning|OOP|APIs|System Design|NLP|Data Structures|Probability,System Design|OOP|Data Structures|NLP,PLATEAUING
+STU0124,9.78,0.2982,0.3412,0.3143,0.2678,0.2695,72.66,4,0.4583,-0.0223,0.6042,3.4186,OOP|Linear Algebra|NLP|Computer Vision,NLP|Computer Vision,STRUGGLING
+STU0125,6.64,0.2085,0.2445,0.2153,0.1932,0.1811,61.81,3,0.5111,-0.0145,0.6108,2.5407,System Design|Linear Algebra|NLP,System Design,STRUGGLING
+STU0126,7.15,0.5904,0.5684,0.5894,0.5915,0.6124,46.67,8,0.6869,0.0301,0.4429,1.8489,Python Basics|Linear Algebra|ML Fundamentals|NLP|Statistics|SQL|Data Structures|Computer Vision,Linear Algebra|Computer Vision|ML Fundamentals,PLATEAUING
+STU0127,5.52,0.9417,0.9071,0.9467,0.9753,0.9378,25.2,12,1.0,0.015,0.1985,0.5494,ML Fundamentals|OOP|Statistics|Deep Learning|Linear Algebra|System Design|SQL|Probability|Algorithms|Data Structures|Computer Vision|Python Basics,SQL|ML Fundamentals,MASTERED
+STU0128,5.57,0.9368,0.9285,0.9475,0.9415,0.9296,22.47,10,0.8334,0.0236,0.2084,0.1641,Python Basics|ML Fundamentals|SQL|Algorithms|Statistics|APIs|NLP|OOP|Linear Algebra|Computer Vision,Algorithms|NLP,MASTERED
+STU0129,6.8,0.2017,0.2753,0.2047,0.2021,0.1246,62.23,5,0.5584,-0.0078,0.5828,3.8236,System Design|Algorithms|Python Basics|SQL|Data Structures,Python Basics|SQL,STRUGGLING
+STU0130,6.54,0.8631,0.7698,0.8055,0.8927,0.9844,36.92,8,0.7266,0.0905,0.2721,1.5703,OOP|Data Structures|Linear Algebra|Algorithms|Computer Vision|Probability|ML Fundamentals|APIs,Algorithms|Computer Vision,PROGRESSING
+STU0131,6.82,0.513,0.5101,0.504,0.5202,0.5176,38.23,7,0.5915,0.0097,0.4841,2.11,Algorithms|SQL|APIs|Statistics|Python Basics|System Design|ML Fundamentals,ML Fundamentals|System Design|APIs,PLATEAUING
+STU0132,6.74,0.2179,0.2562,0.2504,0.2119,0.1533,61.85,5,0.4234,-0.039,0.5852,3.1744,Linear Algebra|NLP|Probability|APIs|ML Fundamentals,Probability|APIs,STRUGGLING
+STU0133,8.39,0.3328,0.4382,0.3655,0.2939,0.2338,62.26,2,0.4642,-0.0718,0.6229,2.478,Computer Vision|ML Fundamentals,ML Fundamentals,STRUGGLING
+STU0134,7.85,0.5533,0.5427,0.5545,0.5658,0.5503,47.67,7,0.7113,0.0086,0.3719,2.212,Computer Vision|Data Structures|NLP|Statistics|Probability|Algorithms|System Design,Computer Vision|Algorithms,PLATEAUING
+STU0135,9.63,0.9986,0.9945,1.0,1.0,1.0,27.01,13,0.8598,0.0344,0.0746,0.5511,Data Structures|Algorithms|System Design|APIs|Python Basics|Computer Vision|Linear Algebra|SQL|OOP|Probability|Deep Learning|NLP|ML Fundamentals,Algorithms,MASTERED
+STU0136,8.21,0.5762,0.5612,0.5592,0.5799,0.6045,51.79,7,0.7564,0.0203,0.4516,2.1299,Probability|Statistics|System Design|OOP|Computer Vision|ML Fundamentals|Algorithms,ML Fundamentals|Probability|Computer Vision,PLATEAUING
+STU0137,8.71,0.8111,0.7943,0.819,0.8318,0.7994,49.17,9,0.7139,0.0348,0.2834,1.3776,Algorithms|Deep Learning|Python Basics|Probability|Data Structures|Linear Algebra|OOP|ML Fundamentals|System Design,Data Structures|Linear Algebra,PROGRESSING
+STU0138,7.41,0.6858,0.6572,0.681,0.6939,0.711,33.01,7,0.8368,0.026,0.395,0.7903,System Design|ML Fundamentals|Statistics|OOP|Algorithms|APIs|Probability,OOP|Statistics,PROGRESSING
+STU0139,7.12,0.646,0.6295,0.6527,0.6427,0.6592,55.9,8,0.8279,-0.0162,0.5185,1.7262,Statistics|Deep Learning|Python Basics|Data Structures|Linear Algebra|SQL|ML Fundamentals|Probability,Linear Algebra|Deep Learning|Data Structures|SQL,PLATEAUING
+STU0140,8.74,0.9633,0.9279,0.9637,0.9696,0.9918,10.95,9,0.8738,0.0415,0.1628,0.8685,Deep Learning|APIs|Probability|Statistics|Computer Vision|OOP|Data Structures|SQL|Python Basics,Probability,MASTERED
+STU0141,8.71,0.9008,0.9044,0.8833,0.8974,0.918,23.31,9,0.9472,0.028,0.0332,0.87,SQL|ML Fundamentals|OOP|NLP|System Design|Python Basics|Probability|APIs|Data Structures,Python Basics,MASTERED
+STU0142,8.62,0.6948,0.6899,0.6873,0.6824,0.7197,51.73,6,0.738,0.0018,0.4887,2.4955,ML Fundamentals|APIs|Probability|OOP|Statistics|Linear Algebra,Linear Algebra|Statistics,PLATEAUING
+STU0143,8.67,0.5419,0.5674,0.5455,0.5456,0.5089,35.77,8,0.7132,-0.0089,0.3693,2.8652,OOP|ML Fundamentals|Probability|Computer Vision|APIs|SQL|Algorithms|Linear Algebra,Computer Vision|Algorithms,PLATEAUING
+STU0144,7.2,0.457,0.5107,0.4557,0.458,0.4034,47.35,5,0.6514,-0.015,0.4301,2.5635,Probability|ML Fundamentals|Computer Vision|Data Structures|Statistics,Computer Vision|ML Fundamentals,PLATEAUING
+STU0145,9.7,0.5349,0.4963,0.5555,0.5497,0.5382,56.69,8,0.665,0.0021,0.389,2.0492,ML Fundamentals|APIs|Deep Learning|Statistics|Computer Vision|NLP|Algorithms|Probability,Probability|Deep Learning|Computer Vision,PLATEAUING
+STU0146,6.68,0.3934,0.4114,0.3594,0.4149,0.388,56.8,3,0.6124,-0.0273,0.6855,3.8821,Data Structures|Probability|Computer Vision,Probability|Computer Vision,STRUGGLING
+STU0147,8.04,0.9334,0.8391,0.9227,0.9719,1.0,45.19,6,0.8129,0.0689,0.3091,1.5333,Linear Algebra|Algorithms|NLP|System Design|Probability|ML Fundamentals,ML Fundamentals,PROGRESSING
+STU0148,5.55,0.9126,0.8077,0.893,0.9497,1.0,34.1,7,0.8106,0.0611,0.2376,1.4635,ML Fundamentals|OOP|Algorithms|Statistics|Linear Algebra|System Design|Python Basics,ML Fundamentals,PROGRESSING
+STU0149,7.43,0.3237,0.363,0.3289,0.3123,0.2905,79.15,5,0.4667,-0.0073,0.7069,3.3183,System Design|OOP|Linear Algebra|Probability|Python Basics,Probability|Linear Algebra|OOP,STRUGGLING
+STU0150,9.16,0.5676,0.5626,0.5852,0.5793,0.5434,43.2,7,0.6777,0.0007,0.4173,2.7538,OOP|Linear Algebra|SQL|Probability|Computer Vision|APIs|Statistics,Linear Algebra|Probability,PLATEAUING
+STU0151,7.44,0.9895,0.9682,1.0,1.0,0.9899,16.1,13,0.8293,0.0176,0.0789,0.5319,Python Basics|NLP|ML Fundamentals|Linear Algebra|OOP|Probability|APIs|Deep Learning|Data Structures|Statistics|Computer Vision|SQL|System Design,Computer Vision,MASTERED
+STU0152,6.72,0.307,0.3927,0.3576,0.2844,0.1934,83.51,5,0.4737,-0.0522,0.8165,3.3179,Probability|Computer Vision|Linear Algebra|Data Structures|OOP,Data Structures|Computer Vision|Linear Algebra|Probability,STRUGGLING
+STU0153,8.01,0.2606,0.3061,0.2656,0.2364,0.2342,81.13,2,0.4988,0.0121,0.7877,3.8199,ML Fundamentals|Linear Algebra,ML Fundamentals,STRUGGLING
+STU0154,6.38,0.5692,0.5931,0.5469,0.5421,0.5948,48.27,7,0.6953,0.0104,0.4411,2.6403,Statistics|APIs|System Design|Deep Learning|NLP|Data Structures|Computer Vision,Computer Vision|APIs|System Design,PLATEAUING
+STU0155,5.59,1.0,1.0,1.0,1.0,1.0,11.13,10,0.9032,0.0185,0.1155,1.2186,ML Fundamentals|Python Basics|Algorithms|SQL|OOP|Probability|NLP|Data Structures|Statistics|APIs,APIs,MASTERED
+STU0156,6.7,0.2263,0.2671,0.2371,0.2079,0.1933,71.07,2,0.4147,-0.0317,0.8476,3.7275,APIs|Linear Algebra,Linear Algebra,STRUGGLING
+STU0157,6.52,0.8721,0.7353,0.826,0.9271,1.0,23.99,10,0.7339,0.0793,0.1892,1.284,Statistics|SQL|APIs|System Design|Computer Vision|Probability|ML Fundamentals|Deep Learning|NLP|Algorithms,Deep Learning,PROGRESSING
+STU0158,9.66,0.6043,0.5977,0.5925,0.631,0.5962,26.82,8,0.8371,0.0425,0.343,0.8955,Computer Vision|ML Fundamentals|NLP|OOP|System Design|SQL|Linear Algebra|Statistics,OOP|System Design,PROGRESSING
+STU0159,5.51,0.3367,0.4204,0.3663,0.3081,0.2521,61.52,3,0.5196,-0.063,0.5712,2.8544,OOP|Statistics|Python Basics,OOP,STRUGGLING
+STU0160,8.94,0.72,0.7155,0.698,0.7162,0.7502,40.42,7,0.8829,0.0177,0.2664,1.0718,Computer Vision|APIs|Linear Algebra|Probability|Algorithms|Data Structures|Statistics,APIs,PROGRESSING
+STU0161,7.95,0.4845,0.5156,0.4852,0.4638,0.4736,43.06,8,0.7206,-0.0029,0.4606,2.5364,Data Structures|APIs|Linear Algebra|ML Fundamentals|Python Basics|Computer Vision|SQL|Statistics,Statistics|Linear Algebra|Computer Vision,PLATEAUING
+STU0162,9.22,0.7072,0.651,0.6976,0.7086,0.7715,43.3,10,0.788,0.0585,0.1854,1.1056,APIs|OOP|System Design|Statistics|NLP|Computer Vision|Deep Learning|Python Basics|SQL|Probability,System Design,PROGRESSING
+STU0163,8.25,0.8205,0.7448,0.7916,0.84,0.9055,30.78,7,0.813,0.0306,0.2724,1.4968,Probability|NLP|Python Basics|Data Structures|SQL|Computer Vision|ML Fundamentals,Computer Vision,PROGRESSING
+STU0164,6.95,0.8634,0.8037,0.8383,0.8971,0.9145,39.52,6,0.8548,0.0205,0.3287,1.5779,Python Basics|Deep Learning|NLP|OOP|Algorithms|ML Fundamentals,Algorithms,PROGRESSING
+STU0165,9.42,0.4277,0.4752,0.4616,0.4156,0.3583,79.88,4,0.5894,0.0029,0.7373,2.788,SQL|Linear Algebra|NLP|APIs,NLP|APIs,STRUGGLING
+STU0166,6.72,0.9515,0.8977,0.9459,0.9764,0.986,20.8,10,0.8838,0.0316,0.1531,0.9681,SQL|Linear Algebra|Deep Learning|Data Structures|Algorithms|OOP|NLP|System Design|Computer Vision|Python Basics,Python Basics,MASTERED
+STU0167,7.63,0.6662,0.6487,0.6654,0.6736,0.6771,51.9,5,0.7065,-0.0044,0.5058,1.707,Deep Learning|Data Structures|NLP|OOP|System Design,Deep Learning|System Design,PLATEAUING
+STU0168,6.31,0.3483,0.3428,0.3318,0.356,0.3628,58.4,2,0.5497,-0.0099,0.8218,2.9574,System Design|OOP,System Design,STRUGGLING
+STU0169,7.33,0.106,0.1972,0.127,0.05,0.05,59.5,5,0.5806,-0.081,0.7934,3.3882,OOP|Probability|Deep Learning|Python Basics|Algorithms,Probability|OOP|Algorithms,STRUGGLING
+STU0170,5.91,0.6812,0.6485,0.651,0.6841,0.7413,40.56,8,0.7272,0.0527,0.2506,1.782,Deep Learning|Probability|ML Fundamentals|OOP|APIs|Algorithms|NLP|Statistics,ML Fundamentals|Deep Learning,PROGRESSING
+STU0171,6.38,0.9365,0.8515,0.9065,0.9882,1.0,48.99,7,0.713,0.0728,0.3856,2.0103,OOP|SQL|Computer Vision|Algorithms|Python Basics|Linear Algebra|Deep Learning,Python Basics|Deep Learning,PROGRESSING
+STU0172,8.92,0.2261,0.2731,0.271,0.213,0.1472,72.29,4,0.5853,-0.0421,0.8593,3.2343,APIs|SQL|Python Basics|Linear Algebra,Python Basics|SQL|APIs,STRUGGLING
+STU0173,7.4,0.8293,0.7336,0.7904,0.874,0.9192,40.18,10,0.8097,0.0661,0.2496,1.5628,APIs|Probability|System Design|ML Fundamentals|Deep Learning|Statistics|Algorithms|Python Basics|NLP|SQL,Statistics|ML Fundamentals,PROGRESSING
+STU0174,8.16,0.3492,0.3992,0.3692,0.3298,0.2986,64.69,3,0.4811,-0.0177,0.7727,3.4602,OOP|System Design|Statistics,Statistics|System Design,STRUGGLING
+STU0175,6.82,0.6626,0.6113,0.6243,0.6944,0.7204,30.84,9,0.8226,0.0316,0.2783,1.3966,Probability|Python Basics|Statistics|ML Fundamentals|NLP|Deep Learning|System Design|OOP|APIs,ML Fundamentals|System Design,PROGRESSING
+STU0176,8.15,0.295,0.4405,0.344,0.2458,0.1499,63.9,5,0.4161,-0.0925,0.6893,3.9833,Statistics|Probability|ML Fundamentals|SQL|Linear Algebra,Statistics|Linear Algebra|SQL,STRUGGLING
+STU0177,6.12,0.6951,0.6254,0.6683,0.6987,0.7882,36.58,10,0.8497,0.0577,0.179,1.8226,Algorithms|SQL|APIs|System Design|Python Basics|Statistics|Computer Vision|Linear Algebra|ML Fundamentals|NLP,Linear Algebra,PROGRESSING
+STU0178,7.66,0.6667,0.6812,0.6716,0.6517,0.6621,54.75,7,0.562,0.0172,0.4919,3.0441,NLP|Python Basics|Deep Learning|Data Structures|APIs|ML Fundamentals|SQL,SQL|Python Basics|ML Fundamentals,PLATEAUING
+STU0179,5.95,0.9617,0.9206,0.9477,0.9786,1.0,18.65,12,0.904,0.041,0.0664,0.5141,OOP|Linear Algebra|Computer Vision|Deep Learning|NLP|APIs|System Design|ML Fundamentals|Statistics|Python Basics|SQL|Data Structures,SQL,MASTERED
+STU0180,8.85,0.4369,0.4379,0.4524,0.4465,0.4109,88.34,4,0.5555,-0.0369,0.7806,2.9623,Probability|Linear Algebra|Computer Vision|System Design,Linear Algebra|System Design|Computer Vision,STRUGGLING
+STU0181,8.44,0.5103,0.5105,0.4881,0.5256,0.517,42.47,6,0.6655,0.0016,0.424,2.1109,Linear Algebra|NLP|APIs|Algorithms|Deep Learning|Python Basics,APIs|Algorithms,PLATEAUING
+STU0182,9.22,0.1898,0.2698,0.207,0.1621,0.1203,63.51,3,0.4352,-0.0733,0.8316,2.8111,Data Structures|Python Basics|Deep Learning,Python Basics|Data Structures,STRUGGLING
+STU0183,9.78,0.9895,0.9927,1.0,0.9746,0.9905,17.54,13,0.8985,0.0284,0.1679,0.7099,Probability|SQL|Python Basics|OOP|Computer Vision|Linear Algebra|System Design|ML Fundamentals|Deep Learning|Data Structures|Statistics|APIs|NLP,ML Fundamentals|Deep Learning,MASTERED
+STU0184,8.26,0.9923,0.9837,0.9854,1.0,1.0,30.9,9,0.9817,0.0097,0.045,1.0811,OOP|Computer Vision|Statistics|Algorithms|APIs|ML Fundamentals|System Design|NLP|Python Basics,System Design,MASTERED
+STU0185,7.05,0.6621,0.6244,0.6375,0.6715,0.7151,50.9,5,0.7559,0.0276,0.4268,2.9406,Computer Vision|APIs|OOP|Algorithms|Data Structures,OOP|Data Structures,PLATEAUING
+STU0186,5.89,0.7385,0.6805,0.7299,0.7434,0.8,28.26,6,0.8872,0.0332,0.3505,1.4054,Statistics|ML Fundamentals|System Design|SQL|Python Basics|NLP,System Design|SQL,PROGRESSING
+STU0187,9.66,0.9909,0.9637,1.0,1.0,1.0,13.48,11,0.9015,0.0266,0.0941,0.965,ML Fundamentals|Probability|OOP|System Design|NLP|Statistics|Deep Learning|SQL|Algorithms|Python Basics|Linear Algebra,Deep Learning,MASTERED
+STU0188,8.45,0.7702,0.6615,0.7248,0.8346,0.8599,32.54,7,0.8671,0.0695,0.3384,1.2985,Linear Algebra|OOP|Deep Learning|Computer Vision|APIs|System Design|Statistics,Deep Learning|System Design,PROGRESSING
+STU0189,7.28,0.8663,0.7905,0.8767,0.8775,0.9205,22.13,6,0.793,0.033,0.2063,1.1918,Data Structures|Algorithms|OOP|APIs|System Design|Computer Vision,Data Structures,PROGRESSING
+STU0190,7.76,0.3334,0.4438,0.3764,0.292,0.2214,58.1,3,0.4315,-0.0788,0.6913,3.5345,ML Fundamentals|Deep Learning|OOP,OOP|ML Fundamentals,STRUGGLING
+STU0191,9.63,0.3053,0.3944,0.3186,0.2809,0.2271,89.77,4,0.5431,-0.0311,0.8242,3.3269,ML Fundamentals|Computer Vision|OOP|APIs,APIs|OOP|Computer Vision,STRUGGLING
+STU0192,5.82,0.9312,0.8793,0.9165,0.9493,0.9797,22.29,9,0.9499,0.0139,0.1034,0.2344,Linear Algebra|Deep Learning|System Design|APIs|Probability|Statistics|Computer Vision|Python Basics|Algorithms,Python Basics,MASTERED
+STU0193,7.81,0.9788,0.9447,0.9707,1.0,1.0,20.67,12,0.9079,0.0323,0.2534,0.3759,Computer Vision|Data Structures|SQL|OOP|Statistics|Probability|Algorithms|Linear Algebra|NLP|APIs|ML Fundamentals|Python Basics,Probability|NLP|Algorithms,MASTERED
+STU0194,9.73,0.9155,0.823,0.8979,0.9565,0.9845,52.8,9,0.8434,0.0437,0.377,1.0731,Data Structures|ML Fundamentals|OOP|Computer Vision|Statistics|SQL|NLP|Linear Algebra|Algorithms,Computer Vision|SQL|OOP,PROGRESSING
+STU0195,9.48,0.6189,0.6642,0.6344,0.6047,0.5722,52.92,7,0.6211,-0.0122,0.463,2.5837,Computer Vision|ML Fundamentals|Probability|NLP|OOP|APIs|SQL,Probability|NLP|APIs,PLATEAUING
+STU0196,8.41,0.6393,0.6548,0.6328,0.6591,0.6106,46.64,5,0.6369,-0.0028,0.5044,2.2813,NLP|APIs|System Design|Linear Algebra|Probability,System Design|Linear Algebra,PLATEAUING
+STU0197,7.18,0.8139,0.6871,0.7514,0.8735,0.9436,24.07,9,0.8747,0.0715,0.3682,1.4092,NLP|Algorithms|SQL|Deep Learning|Statistics|OOP|Python Basics|Computer Vision|Linear Algebra,Deep Learning|Algorithms|NLP,PROGRESSING
+STU0198,9.02,0.98,0.9445,0.9755,1.0,1.0,29.5,10,0.8301,0.018,0.1261,0.6384,Deep Learning|SQL|Python Basics|Data Structures|Probability|Statistics|ML Fundamentals|Linear Algebra|Algorithms|OOP,Probability,MASTERED
+STU0199,7.04,0.9967,0.9884,1.0,1.0,0.9982,28.73,13,0.9263,0.0336,0.1614,0.5226,OOP|Statistics|Python Basics|APIs|Algorithms|NLP|Deep Learning|Linear Algebra|Data Structures|Computer Vision|ML Fundamentals|System Design|Probability,ML Fundamentals|Data Structures,MASTERED
+STU0200,8.41,0.916,0.8354,0.9005,0.9405,0.9877,30.48,6,0.9124,0.0425,0.4232,1.5056,Linear Algebra|NLP|Computer Vision|APIs|Probability|SQL,Linear Algebra|Probability,PROGRESSING
+STU0201,9.06,0.8861,0.8044,0.8789,0.9129,0.9481,39.87,7,0.889,0.069,0.3352,1.0932,Statistics|NLP|System Design|Deep Learning|Python Basics|OOP|Algorithms,NLP|Deep Learning,PROGRESSING
+STU0202,9.8,0.0816,0.1505,0.0759,0.05,0.05,53.83,3,0.6368,-0.0452,0.6861,2.7222,SQL|Linear Algebra|NLP,Linear Algebra|SQL,STRUGGLING
+STU0203,7.33,0.213,0.3338,0.2429,0.1634,0.1118,69.51,4,0.6472,-0.0536,0.5735,3.6045,Python Basics|Linear Algebra|Deep Learning|System Design,Python Basics|System Design,STRUGGLING
+STU0204,8.07,0.8962,0.8878,0.8819,0.8764,0.9389,29.0,13,0.9951,0.0253,0.0767,0.6968,SQL|ML Fundamentals|Deep Learning|Probability|Data Structures|APIs|System Design|Statistics|NLP|Computer Vision|Python Basics|Algorithms|Linear Algebra,Deep Learning,MASTERED
+STU0205,7.43,0.9206,0.8481,0.9114,0.9474,0.9755,50.56,7,0.7632,0.0624,0.2662,1.5354,APIs|OOP|Computer Vision|NLP|Deep Learning|Python Basics|Data Structures,NLP,PROGRESSING
+STU0206,8.53,0.2478,0.2543,0.2346,0.2459,0.2565,87.28,5,0.5671,-0.0127,0.6723,3.5642,ML Fundamentals|Python Basics|System Design|SQL|Probability,ML Fundamentals|System Design|SQL,STRUGGLING
+STU0207,5.73,0.0811,0.1529,0.0714,0.05,0.05,61.11,3,0.4036,-0.0737,0.6931,2.6633,Computer Vision|Deep Learning|Algorithms,Computer Vision|Deep Learning,STRUGGLING
+STU0208,7.95,0.9148,0.8307,0.8872,0.9425,0.9989,33.56,8,0.8835,0.0468,0.3112,1.6111,System Design|NLP|OOP|Python Basics|Deep Learning|ML Fundamentals|Data Structures|Statistics,ML Fundamentals|Statistics,PROGRESSING
+STU0209,9.12,0.2903,0.2911,0.3126,0.2886,0.2687,68.55,4,0.4482,-0.0082,0.6282,3.2697,Deep Learning|Data Structures|APIs|Linear Algebra,Linear Algebra|Deep Learning,STRUGGLING
+STU0210,5.86,0.1943,0.2682,0.2067,0.1941,0.108,72.43,4,0.4393,-0.0535,0.6412,2.4144,Linear Algebra|OOP|Probability|SQL,Probability|SQL,STRUGGLING
+STU0211,9.01,0.867,0.8159,0.8417,0.8678,0.9427,40.92,8,0.8377,0.0535,0.305,1.353,Probability|ML Fundamentals|Python Basics|SQL|Statistics|OOP|NLP|Algorithms,Statistics|OOP,PROGRESSING
+STU0212,9.56,0.8117,0.656,0.7392,0.8834,0.9682,42.09,9,0.7058,0.0749,0.2805,1.7062,SQL|Data Structures|Deep Learning|System Design|ML Fundamentals|OOP|Probability|Algorithms|Statistics,Deep Learning|ML Fundamentals,PROGRESSING
+STU0213,7.03,0.8559,0.7672,0.8131,0.8786,0.9648,45.28,7,0.6869,0.0699,0.2228,1.0969,Probability|Computer Vision|ML Fundamentals|Python Basics|Algorithms|Linear Algebra|System Design,Computer Vision,PROGRESSING
+STU0214,8.01,0.0806,0.1528,0.0695,0.05,0.05,87.1,4,0.3734,-0.0663,0.7616,3.3321,Algorithms|Python Basics|ML Fundamentals|OOP,OOP|ML Fundamentals|Python Basics,STRUGGLING
+STU0215,8.81,0.7854,0.6535,0.7294,0.8325,0.9263,22.86,7,0.8488,0.0634,0.3092,1.212,Computer Vision|Algorithms|APIs|ML Fundamentals|Data Structures|SQL|Deep Learning,APIs|Algorithms,PROGRESSING
+STU0216,7.21,0.3032,0.3799,0.3176,0.2871,0.2281,72.79,3,0.5106,-0.0311,0.7511,3.8813,SQL|ML Fundamentals|Computer Vision,SQL|Computer Vision,STRUGGLING
+STU0217,7.61,0.6336,0.5682,0.658,0.6443,0.6641,37.9,7,0.6559,0.0316,0.4113,2.3946,Python Basics|System Design|Algorithms|NLP|Data Structures|ML Fundamentals|Probability,NLP|ML Fundamentals,PLATEAUING
+STU0218,7.56,0.8525,0.7307,0.823,0.8918,0.9643,46.47,10,0.869,0.0764,0.374,1.6866,SQL|Statistics|NLP|Python Basics|Data Structures|APIs|ML Fundamentals|OOP|Algorithms|Computer Vision,APIs|SQL|Computer Vision,PROGRESSING
+STU0219,7.35,0.778,0.7139,0.7871,0.798,0.8131,36.75,8,0.8815,0.0271,0.2106,1.0907,Python Basics|Computer Vision|Algorithms|System Design|SQL|Data Structures|OOP|Deep Learning,Python Basics,PROGRESSING
+STU0220,6.15,0.9313,0.8986,0.9285,0.9344,0.9636,24.27,9,0.9106,0.0205,0.0829,0.8233,OOP|Probability|Deep Learning|Algorithms|Statistics|System Design|ML Fundamentals|SQL|Python Basics,System Design,MASTERED
+STU0221,7.6,0.8324,0.753,0.7983,0.8723,0.9059,31.83,6,0.7309,0.0523,0.4114,0.8615,System Design|Data Structures|ML Fundamentals|APIs|Python Basics|NLP,ML Fundamentals|System Design,PROGRESSING
+STU0222,5.84,0.774,0.7078,0.7699,0.7974,0.8208,42.95,9,0.8824,0.0544,0.4026,0.9787,Computer Vision|OOP|Algorithms|NLP|Deep Learning|System Design|ML Fundamentals|Linear Algebra|Data Structures,Deep Learning|System Design|ML Fundamentals,PROGRESSING
+STU0223,7.24,0.2848,0.343,0.273,0.2598,0.2634,75.18,3,0.4268,-0.0576,0.666,4.0406,SQL|APIs|NLP,SQL,STRUGGLING
+STU0224,6.4,0.6679,0.663,0.6586,0.6622,0.6878,37.62,8,0.6896,0.0116,0.4308,1.9556,NLP|ML Fundamentals|Data Structures|Computer Vision|Deep Learning|Python Basics|Probability|Algorithms,Computer Vision|Python Basics|Deep Learning,PLATEAUING
+STU0225,6.61,0.5622,0.5348,0.5621,0.5617,0.5903,38.02,6,0.6069,-0.0023,0.5334,2.9023,NLP|Data Structures|SQL|Deep Learning|Probability|Python Basics,Python Basics|Data Structures|Probability,PLATEAUING
+STU0226,9.27,0.3229,0.3967,0.3475,0.289,0.2584,67.02,3,0.5049,-0.047,0.606,3.6983,ML Fundamentals|APIs|Deep Learning,APIs,STRUGGLING
+STU0227,8.33,1.0,1.0,1.0,1.0,1.0,24.99,13,0.9012,0.0438,0.1625,0.2128,Computer Vision|Data Structures|Linear Algebra|OOP|Probability|Statistics|APIs|NLP|Algorithms|Python Basics|System Design|ML Fundamentals|Deep Learning,Probability|Deep Learning,MASTERED
+STU0228,6.6,0.5565,0.5856,0.5719,0.5428,0.5258,48.35,6,0.6765,0.0104,0.5424,2.1931,Statistics|Algorithms|Linear Algebra|APIs|Deep Learning|NLP,APIs|NLP|Statistics,PLATEAUING
+STU0229,9.11,0.9772,0.9834,0.9513,0.9842,0.9899,18.43,13,0.86,0.026,0.2293,0.3138,Data Structures|Deep Learning|System Design|ML Fundamentals|Computer Vision|Statistics|OOP|NLP|Python Basics|Linear Algebra|Probability|Algorithms|SQL,OOP|Linear Algebra,MASTERED
+STU0230,7.25,0.8003,0.6669,0.7568,0.8437,0.9337,31.15,10,0.6824,0.0895,0.3888,1.2529,Deep Learning|Data Structures|Algorithms|System Design|NLP|Linear Algebra|OOP|APIs|Python Basics|SQL,NLP|APIs|Linear Algebra,PROGRESSING
+STU0231,8.74,0.6874,0.6339,0.6782,0.7152,0.7222,29.05,8,0.869,0.0622,0.1736,1.0133,OOP|Computer Vision|APIs|Data Structures|NLP|System Design|Algorithms|SQL,Computer Vision,PROGRESSING
+STU0232,7.65,0.8562,0.7502,0.8452,0.892,0.9374,29.61,6,0.8243,0.0509,0.2253,1.8354,Probability|ML Fundamentals|System Design|OOP|Computer Vision|Deep Learning,ML Fundamentals,PROGRESSING
+STU0233,6.12,0.7288,0.6763,0.6813,0.7567,0.8008,42.12,8,0.8813,0.0238,0.298,1.7071,Computer Vision|System Design|Data Structures|Algorithms|Statistics|Python Basics|NLP|APIs,Statistics|Computer Vision,PROGRESSING
+STU0234,8.35,0.6474,0.6071,0.6304,0.6762,0.676,46.48,6,0.6387,-0.016,0.3868,1.5669,ML Fundamentals|SQL|Computer Vision|Python Basics|Deep Learning|Linear Algebra,Deep Learning|Computer Vision,PLATEAUING
+STU0235,8.72,0.1765,0.2262,0.1815,0.1571,0.1413,54.88,3,0.578,-0.0142,0.6062,4.1224,Probability|Data Structures|System Design,Data Structures,STRUGGLING
+STU0236,6.53,0.9042,0.784,0.8764,0.9563,1.0,42.92,8,0.7301,0.073,0.2759,1.9573,APIs|SQL|Algorithms|OOP|Probability|Data Structures|System Design|Statistics,Probability|APIs,PROGRESSING
+STU0237,9.11,0.5346,0.5548,0.5151,0.5106,0.558,40.6,6,0.7047,-0.0151,0.4427,2.9323,Linear Algebra|NLP|Statistics|ML Fundamentals|Deep Learning|Data Structures,ML Fundamentals|Deep Learning,PLATEAUING
+STU0238,7.04,0.1981,0.2661,0.2435,0.1746,0.1081,57.21,3,0.5609,-0.0343,0.6101,3.3273,System Design|OOP|Data Structures,System Design,STRUGGLING
+STU0239,7.25,0.7263,0.6233,0.6709,0.7348,0.8764,32.68,9,0.8681,0.079,0.3042,0.865,ML Fundamentals|Linear Algebra|Probability|System Design|SQL|NLP|Deep Learning|APIs|Computer Vision,APIs|Linear Algebra,PROGRESSING
+STU0240,8.81,0.2761,0.3268,0.3049,0.2352,0.2376,54.53,5,0.4953,-0.0502,0.8397,3.1486,Statistics|NLP|Linear Algebra|Algorithms|Data Structures,Data Structures|Linear Algebra|NLP|Algorithms,STRUGGLING
+STU0241,6.68,0.985,0.9627,1.0,0.9879,0.9893,15.33,10,0.9167,0.0129,0.1763,0.7796,Statistics|Python Basics|Linear Algebra|Computer Vision|Algorithms|APIs|SQL|Deep Learning|Data Structures|Probability,Python Basics,MASTERED
+STU0242,6.81,1.0,1.0,1.0,1.0,1.0,21.37,13,0.875,0.0237,0.1232,0.6887,Python Basics|Deep Learning|Data Structures|Probability|SQL|Statistics|System Design|Algorithms|Computer Vision|NLP|ML Fundamentals|OOP|APIs,APIs,MASTERED
+STU0243,6.56,0.9914,0.9655,1.0,1.0,1.0,10.09,10,0.9703,0.0411,0.0635,1.2046,Computer Vision|ML Fundamentals|NLP|Python Basics|Linear Algebra|Data Structures|SQL|OOP|Deep Learning|Algorithms,Data Structures,MASTERED
+STU0244,9.53,0.4738,0.5045,0.471,0.458,0.4617,55.67,6,0.6607,-0.0071,0.4501,2.9798,System Design|Data Structures|Deep Learning|Algorithms|Computer Vision|APIs,Computer Vision|System Design,PLATEAUING
+STU0245,5.72,0.0874,0.1823,0.0675,0.05,0.05,61.8,4,0.4715,-0.0624,0.8281,3.257,NLP|ML Fundamentals|OOP|Statistics,NLP|ML Fundamentals|Statistics,STRUGGLING
+STU0246,6.01,1.0,1.0,1.0,1.0,1.0,23.95,9,0.8573,0.0117,0.1563,0.247,Deep Learning|Computer Vision|Statistics|APIs|OOP|SQL|NLP|Probability|Python Basics,OOP,MASTERED
+STU0247,9.04,0.6039,0.6458,0.5987,0.5693,0.6019,33.91,6,0.7658,-0.0131,0.3736,2.5612,SQL|Deep Learning|Algorithms|NLP|Data Structures|Statistics,Data Structures|Deep Learning,PLATEAUING
+STU0248,7.07,0.9957,0.9954,0.9952,0.9924,1.0,19.57,11,0.9549,0.0175,0.2363,0.1,Data Structures|SQL|ML Fundamentals|System Design|Algorithms|Computer Vision|Deep Learning|Probability|Linear Algebra|Statistics|OOP,System Design|ML Fundamentals,MASTERED
+STU0249,6.57,0.9969,1.0,1.0,1.0,0.9875,15.14,13,0.8726,0.0078,0.0818,0.3848,OOP|NLP|Probability|Algorithms|ML Fundamentals|Statistics|SQL|System Design|Deep Learning|Data Structures|Computer Vision|Linear Algebra|Python Basics,Computer Vision,MASTERED
+STU0250,7.55,0.995,0.98,1.0,1.0,1.0,23.8,13,0.8733,0.0362,0.1433,0.9487,Python Basics|Computer Vision|Data Structures|APIs|SQL|NLP|Deep Learning|Probability|System Design|Algorithms|Linear Algebra|OOP|Statistics,Data Structures,MASTERED
+STU0251,5.82,0.7076,0.6764,0.7213,0.7044,0.7283,47.94,5,0.7264,-0.0146,0.3563,2.4298,Statistics|Probability|SQL|System Design|Algorithms,Algorithms,PLATEAUING
+STU0252,5.84,0.5579,0.6114,0.5539,0.5389,0.5274,39.77,8,0.7617,-0.0251,0.3911,2.7092,Linear Algebra|SQL|Python Basics|Statistics|NLP|Computer Vision|Data Structures|Deep Learning,Computer Vision|Linear Algebra|NLP,PLATEAUING
+STU0253,8.28,0.9154,0.8737,0.9039,0.9234,0.9608,10.52,13,0.9105,0.0036,0.1885,0.244,Deep Learning|Linear Algebra|Probability|ML Fundamentals|Algorithms|Python Basics|OOP|Computer Vision|NLP|SQL|Data Structures|System Design|Statistics,Computer Vision|Linear Algebra,MASTERED
+STU0254,8.38,0.5521,0.5653,0.5402,0.5308,0.5722,45.52,8,0.7004,-0.0093,0.4997,1.5523,ML Fundamentals|Statistics|SQL|Python Basics|System Design|APIs|Deep Learning|Probability,System Design|APIs|Probability,PLATEAUING
+STU0255,7.13,0.2393,0.2985,0.2888,0.2337,0.1364,65.87,5,0.4892,-0.0387,0.725,4.0504,Probability|Statistics|NLP|APIs|Data Structures,Statistics|Data Structures|Probability,STRUGGLING
+STU0256,6.92,0.8718,0.8374,0.843,0.8734,0.9334,43.19,9,0.7533,0.0361,0.2909,0.8345,Deep Learning|SQL|ML Fundamentals|Statistics|OOP|APIs|Data Structures|Linear Algebra|Algorithms,Statistics|OOP,PROGRESSING
+STU0257,9.36,1.0,1.0,1.0,1.0,1.0,14.19,11,0.8963,0.0283,0.0934,0.1073,Data Structures|Linear Algebra|APIs|OOP|Probability|SQL|Algorithms|NLP|Computer Vision|ML Fundamentals|Deep Learning,APIs,MASTERED
+STU0258,8.86,0.7537,0.6997,0.7353,0.7615,0.8182,21.86,7,0.9164,0.0271,0.3299,1.7572,APIs|Python Basics|Algorithms|NLP|ML Fundamentals|System Design|SQL,NLP|Algorithms,PROGRESSING
+STU0259,6.22,0.9174,0.8131,0.9021,0.9545,1.0,47.86,6,0.8506,0.0583,0.3702,0.8991,Data Structures|Statistics|OOP|Python Basics|Linear Algebra|Computer Vision,Python Basics|Computer Vision,PROGRESSING
+STU0260,6.43,0.1715,0.2521,0.1922,0.1582,0.0835,64.47,2,0.5754,-0.069,0.7162,3.8106,NLP|Deep Learning,NLP,STRUGGLING
+STU0261,6.92,0.7045,0.639,0.7195,0.7051,0.7542,28.76,8,0.8498,0.0524,0.3812,1.8165,Probability|Algorithms|Computer Vision|NLP|Linear Algebra|SQL|Data Structures|APIs,Linear Algebra|APIs|SQL,PROGRESSING
+STU0262,7.43,0.9981,0.9924,1.0,1.0,1.0,24.15,13,1.0,0.0124,0.107,1.2226,SQL|APIs|Probability|Data Structures|Linear Algebra|Computer Vision|Python Basics|Statistics|Algorithms|System Design|ML Fundamentals|OOP|NLP,APIs,MASTERED
+STU0263,6.45,0.1643,0.2536,0.2024,0.1292,0.072,78.29,5,0.4915,-0.049,0.6694,3.227,Computer Vision|System Design|Python Basics|Deep Learning|NLP,Computer Vision|Deep Learning|Python Basics,STRUGGLING
+STU0264,7.0,0.6568,0.6128,0.6237,0.6971,0.6937,39.9,9,0.8126,0.0386,0.391,1.8375,ML Fundamentals|Computer Vision|Statistics|APIs|Algorithms|OOP|Linear Algebra|SQL|Probability,Algorithms|Computer Vision|ML Fundamentals,PROGRESSING
+STU0265,8.97,0.9982,0.993,1.0,1.0,1.0,24.1,11,0.9842,0.0348,0.1721,0.8309,Deep Learning|OOP|ML Fundamentals|Algorithms|System Design|Data Structures|APIs|NLP|Python Basics|SQL|Computer Vision,Data Structures,MASTERED
+STU0266,6.62,0.7106,0.6581,0.6771,0.7263,0.781,36.23,8,0.6904,0.0421,0.287,1.2144,NLP|Deep Learning|Computer Vision|Data Structures|APIs|Probability|System Design|SQL,System Design|Probability,PROGRESSING
+STU0267,8.79,0.8845,0.7972,0.8585,0.9101,0.9723,44.5,10,0.8068,0.0575,0.3399,1.1576,ML Fundamentals|Probability|SQL|Python Basics|Data Structures|Computer Vision|System Design|Algorithms|APIs|Statistics,SQL|Statistics|Data Structures,PROGRESSING
+STU0268,8.32,0.7271,0.635,0.7204,0.7414,0.8115,43.53,7,0.7588,0.0663,0.2683,0.7212,Python Basics|Statistics|Probability|APIs|Data Structures|System Design|Algorithms,APIs,PROGRESSING
+STU0269,9.01,0.5404,0.5186,0.5329,0.5252,0.585,48.33,5,0.7392,0.0138,0.4042,1.7412,Computer Vision|Data Structures|Linear Algebra|OOP|Probability,OOP|Probability,PLATEAUING
+STU0270,7.99,0.5301,0.5154,0.5335,0.5306,0.5408,48.46,7,0.6868,0.0146,0.3656,2.7709,Python Basics|Statistics|Linear Algebra|OOP|Data Structures|APIs|SQL,APIs|Statistics,PLATEAUING
+STU0271,5.96,0.9263,0.8925,0.9021,0.9336,0.9771,17.46,11,0.9649,0.0341,0.0858,0.7892,System Design|SQL|Data Structures|Deep Learning|Algorithms|ML Fundamentals|NLP|APIs|Statistics|Computer Vision|OOP,Algorithms,MASTERED
+STU0272,7.19,0.9626,0.978,0.9328,0.9545,0.985,22.61,13,0.8981,-0.0084,0.1265,0.9572,Algorithms|NLP|SQL|Probability|Python Basics|APIs|Linear Algebra|OOP|Computer Vision|ML Fundamentals|Deep Learning|System Design|Data Structures,NLP,MASTERED
+STU0273,6.01,0.9271,0.9078,0.9107,0.926,0.9638,27.97,13,0.9271,0.023,0.1679,1.1485,ML Fundamentals|Probability|Data Structures|Algorithms|System Design|APIs|NLP|Computer Vision|Statistics|Deep Learning|SQL|OOP|Linear Algebra,Deep Learning|Data Structures,MASTERED
+STU0274,7.35,0.9372,0.9779,0.9223,0.9348,0.9139,23.81,10,0.9107,0.0049,0.1324,0.5862,NLP|Computer Vision|Probability|Algorithms|System Design|Statistics|Python Basics|OOP|ML Fundamentals|SQL,OOP,MASTERED
+STU0275,5.96,0.7488,0.7278,0.7285,0.7557,0.7833,50.88,7,0.7504,0.0529,0.2409,1.4491,Computer Vision|Python Basics|Linear Algebra|SQL|Algorithms|Data Structures|ML Fundamentals,Data Structures,PROGRESSING
+STU0276,8.58,0.8702,0.7853,0.8435,0.8935,0.9586,27.53,10,0.9072,0.0407,0.3296,1.3253,Linear Algebra|OOP|Algorithms|SQL|Python Basics|APIs|Deep Learning|Computer Vision|NLP|System Design,System Design|Linear Algebra|Python Basics,PROGRESSING
+STU0277,7.87,0.7536,0.6847,0.7078,0.7975,0.8243,26.92,7,0.8562,0.0273,0.3182,1.1235,OOP|Data Structures|Statistics|Computer Vision|Probability|APIs|SQL,OOP|Statistics,PROGRESSING
+STU0278,7.8,0.8544,0.7506,0.8356,0.9045,0.9268,38.59,8,0.74,0.0653,0.2866,1.3884,Deep Learning|SQL|OOP|Algorithms|NLP|ML Fundamentals|APIs|Data Structures,NLP|ML Fundamentals,PROGRESSING
+STU0279,9.13,0.6781,0.6691,0.6974,0.6774,0.6685,30.27,6,0.8529,0.0163,0.3422,1.0356,Linear Algebra|Deep Learning|SQL|Probability|Algorithms|Statistics,Statistics|Deep Learning,PROGRESSING
+STU0280,7.74,0.9222,0.8262,0.8882,0.9744,1.0,28.54,9,0.8209,0.047,0.3449,1.485,System Design|Python Basics|Deep Learning|Data Structures|SQL|Statistics|Computer Vision|Probability|Linear Algebra,Probability|Python Basics|Statistics,PROGRESSING
+STU0281,7.45,0.9844,0.9722,0.9815,1.0,0.9838,13.11,11,0.8762,0.0261,0.0645,0.9223,System Design|Deep Learning|NLP|SQL|APIs|Python Basics|Linear Algebra|Computer Vision|Algorithms|Data Structures|Statistics,APIs,MASTERED
+STU0282,9.38,0.6783,0.6572,0.6706,0.6861,0.6993,36.34,6,0.6448,0.0203,0.4662,1.7619,OOP|APIs|ML Fundamentals|Python Basics|Deep Learning|NLP,Python Basics|NLP,PLATEAUING
+STU0283,6.28,0.6655,0.6495,0.6448,0.6896,0.6782,57.77,7,0.6897,0.0071,0.5659,2.0052,Algorithms|Data Structures|Linear Algebra|ML Fundamentals|Probability|APIs|Deep Learning,APIs|ML Fundamentals|Probability,PLATEAUING
+STU0284,9.27,0.4122,0.4378,0.446,0.3955,0.3693,78.47,2,0.4946,-0.0162,0.6439,3.8079,NLP|Data Structures,NLP,STRUGGLING
+STU0285,6.27,0.6889,0.6427,0.6807,0.7212,0.7111,43.75,6,0.8772,0.0207,0.317,1.0443,ML Fundamentals|Python Basics|Computer Vision|Statistics|OOP|SQL,SQL,PROGRESSING
+STU0286,5.97,0.4048,0.4426,0.4169,0.4016,0.3583,78.65,4,0.4875,-0.0067,0.7676,2.7448,OOP|APIs|Data Structures|Computer Vision,APIs|Data Structures|OOP,STRUGGLING
+STU0287,7.13,0.6114,0.6008,0.6351,0.6157,0.5942,50.56,5,0.6692,-0.022,0.5822,1.5917,NLP|OOP|Data Structures|SQL|Linear Algebra,NLP|SQL,PLATEAUING
+STU0288,7.2,0.9611,0.888,0.9565,1.0,1.0,32.98,8,0.806,0.0476,0.2389,1.0969,APIs|Probability|Data Structures|Algorithms|ML Fundamentals|Deep Learning|NLP|Statistics,ML Fundamentals,PROGRESSING
+STU0289,6.19,0.4739,0.484,0.4665,0.4485,0.4966,49.42,8,0.611,0.0089,0.3017,2.8523,Python Basics|Computer Vision|SQL|System Design|Probability|OOP|NLP|Statistics,SQL|System Design,PLATEAUING
+STU0290,8.38,0.7217,0.6321,0.6809,0.763,0.8108,47.81,6,0.7735,0.0445,0.2641,1.0238,ML Fundamentals|OOP|Algorithms|Python Basics|SQL|NLP,OOP,PROGRESSING
+STU0291,6.96,0.2563,0.3263,0.2858,0.2379,0.1754,55.39,3,0.5779,-0.0675,0.8234,2.9963,ML Fundamentals|NLP|Computer Vision,Computer Vision|ML Fundamentals,STRUGGLING
+STU0292,6.98,0.2552,0.31,0.2782,0.2609,0.1718,69.87,3,0.3949,-0.0083,0.583,2.5673,Computer Vision|SQL|Deep Learning,Deep Learning,STRUGGLING
+STU0293,6.18,0.854,0.8399,0.8356,0.8629,0.8776,8.55,13,0.8667,0.0108,0.1675,0.4657,Algorithms|Linear Algebra|OOP|APIs|Probability|SQL|Deep Learning|NLP|Computer Vision|System Design|ML Fundamentals|Statistics|Python Basics,Statistics|Linear Algebra,MASTERED
+STU0294,9.5,0.6027,0.6312,0.5914,0.5836,0.6047,40.93,6,0.7864,-0.0109,0.3721,2.6365,System Design|Algorithms|Computer Vision|OOP|Data Structures|ML Fundamentals,OOP|Data Structures,PLATEAUING
+STU0295,7.44,0.1837,0.2795,0.221,0.1456,0.0886,89.05,3,0.3959,-0.0559,0.7606,2.6781,OOP|Probability|ML Fundamentals,Probability|ML Fundamentals,STRUGGLING
+STU0296,8.21,0.8003,0.7251,0.7624,0.8215,0.8924,46.0,10,0.8094,0.0587,0.3547,0.9983,SQL|OOP|Deep Learning|Computer Vision|System Design|Data Structures|Probability|Statistics|APIs|Python Basics,SQL|APIs|Probability,PROGRESSING
+STU0297,6.98,0.8507,0.8023,0.8153,0.8806,0.9046,35.8,9,0.7494,0.0278,0.2119,1.7011,Probability|Python Basics|NLP|System Design|SQL|APIs|Linear Algebra|Algorithms|Computer Vision,System Design,PROGRESSING
+STU0298,5.68,0.3119,0.4012,0.3185,0.2787,0.2493,61.5,4,0.4757,-0.063,0.7266,3.6087,Probability|ML Fundamentals|Linear Algebra|Python Basics,Linear Algebra|ML Fundamentals,STRUGGLING
+STU0299,6.62,0.7047,0.6923,0.6721,0.7141,0.7405,31.12,6,0.7335,0.0216,0.1612,0.8417,Probability|NLP|Linear Algebra|Deep Learning|System Design|Data Structures,Data Structures,PROGRESSING
+STU0300,9.33,0.1091,0.1968,0.1395,0.05,0.05,85.92,3,0.5913,-0.0449,0.7611,2.9656,OOP|System Design|Linear Algebra,Linear Algebra|OOP,STRUGGLING
+STU0301,8.27,0.2722,0.2947,0.2781,0.2552,0.261,86.51,2,0.4085,-0.0233,0.5339,3.7551,OOP|APIs,APIs,STRUGGLING
+STU0302,9.07,0.7394,0.6733,0.6869,0.7903,0.8071,29.91,9,0.8181,0.0738,0.2471,0.9511,Probability|Python Basics|ML Fundamentals|Data Structures|Algorithms|APIs|Linear Algebra|Computer Vision|Deep Learning,ML Fundamentals|APIs,PROGRESSING
+STU0303,6.48,0.5975,0.5757,0.5881,0.6079,0.6181,34.9,8,0.8605,0.0208,0.4425,1.664,APIs|System Design|ML Fundamentals|Algorithms|SQL|Deep Learning|OOP|Data Structures,System Design|ML Fundamentals|SQL,PROGRESSING
+STU0304,5.97,0.8935,0.7781,0.852,0.9439,1.0,40.78,10,0.8624,0.0679,0.4459,1.107,APIs|ML Fundamentals|Data Structures|Computer Vision|OOP|Linear Algebra|Python Basics|Statistics|Deep Learning|Probability,Data Structures|Deep Learning|OOP|APIs,PROGRESSING
+STU0305,8.45,0.8911,0.8257,0.8756,0.9185,0.9447,26.4,8,0.7235,0.0222,0.1884,1.5041,System Design|NLP|APIs|Algorithms|SQL|Statistics|Probability|Data Structures,APIs,PROGRESSING
+STU0306,6.98,0.9941,1.0,1.0,0.9777,0.9986,30.36,12,0.8942,0.0281,0.1905,1.044,ML Fundamentals|Computer Vision|Python Basics|Statistics|OOP|Data Structures|SQL|Probability|Deep Learning|NLP|Algorithms|Linear Algebra,NLP|Probability,MASTERED
+STU0307,9.34,0.8144,0.846,0.8211,0.7911,0.7992,37.91,8,0.8016,0.0262,0.4148,1.517,APIs|Algorithms|Probability|Deep Learning|NLP|System Design|SQL|Linear Algebra,Probability|SQL|Algorithms,PROGRESSING
+STU0308,8.52,0.6653,0.6864,0.6621,0.6572,0.6556,43.0,7,0.7155,-0.0153,0.4965,2.8934,OOP|NLP|System Design|Statistics|ML Fundamentals|Algorithms|Data Structures,Data Structures|Algorithms|OOP,PLATEAUING
+STU0309,6.82,0.7661,0.6753,0.7312,0.7939,0.864,35.01,8,0.7425,0.0395,0.2443,1.1516,Deep Learning|Computer Vision|Statistics|OOP|System Design|APIs|SQL|Python Basics,APIs,PROGRESSING
+STU0310,7.32,0.654,0.6573,0.6599,0.6495,0.6493,36.06,7,0.7774,0.0047,0.37,2.0423,Algorithms|Statistics|System Design|Linear Algebra|Computer Vision|SQL|Python Basics,SQL|Python Basics,PLATEAUING
+STU0311,6.24,0.7056,0.7037,0.705,0.7051,0.7085,44.68,8,0.6636,-0.007,0.4429,1.9728,NLP|ML Fundamentals|System Design|Deep Learning|OOP|Algorithms|APIs|Probability,Deep Learning|NLP|Probability,PLATEAUING
+STU0312,8.03,0.0966,0.1845,0.0949,0.057,0.05,79.07,4,0.4434,-0.0699,0.7225,3.7336,Algorithms|System Design|SQL|Deep Learning,System Design|SQL,STRUGGLING
+STU0313,5.68,0.2467,0.3219,0.2557,0.2284,0.1808,88.19,2,0.4918,-0.063,0.6985,2.693,Probability|APIs,Probability,STRUGGLING
+STU0314,9.14,0.9724,0.9445,0.9623,0.9827,1.0,15.65,12,0.9141,0.0276,0.1499,0.3714,Probability|APIs|Data Structures|Algorithms|OOP|Linear Algebra|System Design|SQL|Deep Learning|ML Fundamentals|Statistics|NLP,Deep Learning,MASTERED
+STU0315,7.23,0.9998,1.0,1.0,1.0,0.9992,13.96,13,0.8905,0.043,0.1675,0.5517,Algorithms|OOP|Probability|Data Structures|Statistics|SQL|Computer Vision|NLP|Linear Algebra|Deep Learning|System Design|ML Fundamentals|APIs,Algorithms|ML Fundamentals,MASTERED
+STU0316,7.89,0.9718,0.9176,0.9698,1.0,1.0,30.17,6,0.7658,0.0749,0.215,1.5055,SQL|Algorithms|Statistics|System Design|Data Structures|Probability,Algorithms,PROGRESSING
+STU0317,7.94,0.5169,0.514,0.4927,0.5304,0.5306,48.27,7,0.6516,-0.0133,0.4245,2.7676,Algorithms|Statistics|Computer Vision|ML Fundamentals|Linear Algebra|Deep Learning|APIs,ML Fundamentals|APIs,PLATEAUING
+STU0318,8.34,0.2508,0.3776,0.2621,0.212,0.1514,68.57,4,0.4061,-0.0706,0.7123,3.2732,NLP|System Design|ML Fundamentals|Python Basics,Python Basics|System Design,STRUGGLING
+STU0319,7.75,0.3091,0.3765,0.3273,0.274,0.2586,70.96,4,0.6268,-0.0399,0.7915,3.6667,NLP|Data Structures|SQL|Deep Learning,Data Structures|Deep Learning|SQL,STRUGGLING
+STU0320,7.49,0.6235,0.6676,0.6333,0.6146,0.5784,53.54,7,0.6833,-0.0129,0.4759,2.9249,APIs|Deep Learning|Statistics|ML Fundamentals|Python Basics|SQL|OOP,OOP|APIs|Python Basics,PLATEAUING
+STU0321,7.27,0.8388,0.7646,0.8228,0.8424,0.9253,30.54,6,0.6976,0.0711,0.269,1.4391,System Design|OOP|Data Structures|APIs|Linear Algebra|ML Fundamentals,APIs,PROGRESSING
+STU0322,6.94,0.7719,0.6552,0.7395,0.8237,0.8694,30.17,9,0.8522,0.0642,0.2031,1.1142,NLP|Python Basics|APIs|Data Structures|System Design|SQL|Algorithms|Probability|Linear Algebra,Linear Algebra,PROGRESSING
+STU0323,8.25,0.5821,0.5596,0.5572,0.5923,0.6194,48.93,10,0.8051,0.0284,0.3997,2.1785,Linear Algebra|OOP|Algorithms|System Design|ML Fundamentals|Statistics|SQL|APIs|Data Structures|Computer Vision,OOP|ML Fundamentals|Linear Algebra,PROGRESSING
+STU0324,5.97,0.5488,0.5434,0.5527,0.5488,0.5504,51.99,5,0.5831,-0.0096,0.4992,2.5387,NLP|Probability|Data Structures|ML Fundamentals|Python Basics,Python Basics|NLP,PLATEAUING
+STU0325,6.87,0.8741,0.8958,0.8624,0.8617,0.8765,21.19,12,0.8384,0.0009,0.0922,0.9692,ML Fundamentals|OOP|NLP|Probability|Linear Algebra|Deep Learning|System Design|Statistics|Data Structures|Python Basics|APIs|SQL,Probability,MASTERED
+STU0326,7.46,0.7546,0.7097,0.761,0.7664,0.7813,41.44,7,0.77,0.0259,0.4294,0.9362,Data Structures|ML Fundamentals|Computer Vision|Statistics|Python Basics|Probability|APIs,Statistics|Computer Vision|ML Fundamentals,PROGRESSING
+STU0327,6.54,0.6849,0.6085,0.6647,0.7019,0.7646,30.22,10,0.894,0.0591,0.3582,1.7677,Linear Algebra|ML Fundamentals|SQL|Algorithms|NLP|Computer Vision|System Design|Python Basics|Probability|Data Structures,ML Fundamentals|NLP|SQL,PROGRESSING
+STU0328,8.11,0.8749,0.7757,0.8092,0.9148,1.0,44.54,6,0.7639,0.0678,0.2837,1.2365,NLP|Computer Vision|ML Fundamentals|Deep Learning|Probability|System Design,Deep Learning,PROGRESSING
+STU0329,9.21,0.6688,0.6567,0.6621,0.6903,0.666,35.59,5,0.7601,-0.0164,0.4572,1.4404,Statistics|ML Fundamentals|APIs|Algorithms|NLP,ML Fundamentals|NLP,PLATEAUING
+STU0330,6.08,0.2118,0.2785,0.233,0.1735,0.1621,79.65,5,0.4256,-0.0124,0.6043,3.7671,Data Structures|Python Basics|Deep Learning|SQL|Linear Algebra,SQL|Deep Learning|Python Basics,STRUGGLING
+STU0331,9.32,0.5018,0.5326,0.4984,0.4958,0.4803,55.72,5,0.7118,-0.0346,0.3778,2.5447,Algorithms|Linear Algebra|Probability|OOP|APIs,Linear Algebra,PLATEAUING
+STU0332,5.85,0.8652,0.7789,0.8248,0.8928,0.9644,32.07,8,0.797,0.0807,0.371,1.589,SQL|NLP|Algorithms|ML Fundamentals|OOP|Linear Algebra|Statistics|Computer Vision,OOP|NLP,PROGRESSING
+STU0333,7.54,0.2358,0.2826,0.2812,0.2019,0.1774,72.03,3,0.4739,-0.0228,0.7435,3.4876,ML Fundamentals|SQL|Statistics,SQL|Statistics,STRUGGLING
+STU0334,9.42,0.089,0.1752,0.0806,0.05,0.05,76.94,3,0.4999,-0.0929,0.7769,3.1813,Computer Vision|OOP|Python Basics,Computer Vision|OOP,STRUGGLING
+STU0335,9.34,0.4504,0.4598,0.4669,0.4083,0.4667,63.47,5,0.5207,-0.0167,0.6979,2.8638,SQL|Probability|NLP|Statistics|OOP,SQL|NLP|Probability,STRUGGLING
+STU0336,7.84,0.3246,0.3834,0.3499,0.2988,0.2663,83.74,4,0.5242,-0.0602,0.59,2.5798,System Design|Probability|Data Structures|Computer Vision,Probability|System Design,STRUGGLING
+STU0337,7.97,0.9528,0.908,0.9331,0.9728,0.9975,24.99,10,0.9026,0.0386,0.1863,0.8519,Linear Algebra|APIs|System Design|NLP|Probability|OOP|Deep Learning|ML Fundamentals|Algorithms|Computer Vision,Linear Algebra,MASTERED
+STU0338,7.04,0.8789,0.7986,0.8568,0.9026,0.9578,43.48,6,0.6799,0.0357,0.2544,0.5718,System Design|OOP|SQL|Computer Vision|Linear Algebra|NLP,Computer Vision,PROGRESSING
+STU0339,9.77,0.7565,0.693,0.7495,0.7713,0.812,51.02,7,0.6498,0.0205,0.4351,2.8338,Algorithms|Data Structures|APIs|System Design|OOP|ML Fundamentals|Statistics,Statistics|Algorithms|APIs,PLATEAUING
+STU0340,6.74,0.1761,0.2041,0.1976,0.155,0.1478,76.96,4,0.407,-0.0504,0.6056,2.9572,NLP|Algorithms|Computer Vision|Data Structures,Data Structures|Computer Vision,STRUGGLING
+STU0341,7.01,0.5747,0.5463,0.5622,0.5847,0.6058,47.59,8,0.7624,-0.0043,0.3802,1.992,NLP|ML Fundamentals|APIs|Python Basics|Linear Algebra|Computer Vision|Deep Learning|System Design,NLP|Linear Algebra|ML Fundamentals,PLATEAUING
+STU0342,5.77,0.5263,0.5197,0.518,0.5251,0.5422,46.68,6,0.712,0.0072,0.4687,2.7425,SQL|Python Basics|Linear Algebra|APIs|Data Structures|Probability,SQL|APIs,PLATEAUING
+STU0343,7.35,0.2177,0.3042,0.2573,0.1906,0.1185,77.42,3,0.4895,-0.0707,0.7375,3.0671,ML Fundamentals|System Design|Linear Algebra,Linear Algebra|System Design,STRUGGLING
+STU0344,7.01,0.6076,0.5702,0.6057,0.6279,0.6267,57.59,7,0.7169,0.0111,0.4381,1.4187,Deep Learning|Linear Algebra|NLP|SQL|Python Basics|APIs|Computer Vision,SQL|Deep Learning|Computer Vision,PLATEAUING
+STU0345,8.1,0.6055,0.5756,0.5874,0.6061,0.6528,50.5,7,0.7864,0.0186,0.5412,2.5605,Python Basics|APIs|OOP|Probability|Data Structures|System Design|Computer Vision,APIs|Probability|System Design,PLATEAUING
+STU0346,8.95,0.7356,0.6967,0.7454,0.733,0.7671,51.2,9,0.6972,0.0325,0.3055,1.2531,OOP|System Design|Statistics|Linear Algebra|Probability|NLP|Algorithms|SQL|Data Structures,Probability|NLP,PROGRESSING
+STU0347,6.23,0.7963,0.7502,0.7988,0.8223,0.8138,26.98,9,0.8426,0.0455,0.3168,1.4174,Probability|Algorithms|NLP|Data Structures|Computer Vision|Deep Learning|System Design|Statistics|SQL,Probability|Computer Vision,PROGRESSING
+STU0348,9.45,0.2727,0.2784,0.2706,0.2653,0.2766,87.22,2,0.4414,-0.0098,0.882,2.7436,APIs|SQL,APIs,STRUGGLING
+STU0349,7.31,0.628,0.6084,0.6171,0.6579,0.6285,44.64,5,0.6728,0.0122,0.4427,1.8704,Probability|NLP|Statistics|Python Basics|APIs,Python Basics|APIs,PLATEAUING
+STU0350,6.06,0.7672,0.7005,0.7151,0.7882,0.8652,41.09,6,0.7754,0.0486,0.2368,1.464,System Design|Linear Algebra|Computer Vision|OOP|Probability|Statistics,Linear Algebra,PROGRESSING
+STU0351,6.95,0.9642,0.9054,0.9515,1.0,1.0,41.67,8,0.864,0.0573,0.3928,1.0669,Python Basics|OOP|Data Structures|APIs|Probability|Algorithms|ML Fundamentals|NLP,ML Fundamentals|NLP|Algorithms,PROGRESSING
+STU0352,6.89,0.9063,0.9009,0.8891,0.9029,0.9323,14.36,13,0.9607,0.0213,0.1433,1.274,Computer Vision|Deep Learning|Python Basics|Linear Algebra|ML Fundamentals|NLP|Probability|Statistics|Algorithms|System Design|APIs|Data Structures|OOP,Probability,MASTERED
+STU0353,7.02,0.9024,0.7918,0.8525,0.9652,1.0,36.6,7,0.749,0.0781,0.1935,1.7327,Statistics|Computer Vision|Algorithms|SQL|ML Fundamentals|Probability|Deep Learning,SQL,PROGRESSING
+STU0354,5.52,0.3365,0.3867,0.3547,0.3168,0.2879,77.04,5,0.4241,-0.04,0.7046,3.0186,Deep Learning|Algorithms|ML Fundamentals|Linear Algebra|Computer Vision,Computer Vision|Algorithms|Deep Learning,STRUGGLING
+STU0355,6.15,0.1428,0.3136,0.1402,0.0674,0.05,80.12,4,0.3877,-0.0804,0.6571,2.57,System Design|Python Basics|Linear Algebra|Probability,Probability|Python Basics,STRUGGLING
+STU0356,9.42,0.8579,0.8172,0.8395,0.8756,0.8991,35.56,6,0.7235,0.0272,0.231,1.2708,Algorithms|System Design|OOP|ML Fundamentals|Statistics|APIs,APIs,PROGRESSING
+STU0357,7.46,0.4116,0.4038,0.3877,0.4284,0.4266,70.56,2,0.5254,-0.0128,0.6981,3.7708,ML Fundamentals|Deep Learning,ML Fundamentals,STRUGGLING
+STU0358,7.95,0.8436,0.7552,0.8112,0.8589,0.949,51.38,9,0.7418,0.0918,0.3273,1.7754,Deep Learning|Algorithms|Python Basics|OOP|NLP|Statistics|SQL|ML Fundamentals|APIs,NLP|Python Basics,PROGRESSING
+STU0359,6.84,0.9996,1.0,1.0,1.0,0.9985,13.9,11,0.9484,0.0593,0.2595,0.9414,Statistics|ML Fundamentals|Probability|Algorithms|System Design|OOP|APIs|Computer Vision|Linear Algebra|Python Basics|Deep Learning,System Design|Probability,MASTERED
+STU0360,9.11,0.8477,0.7695,0.8123,0.8761,0.9328,29.06,10,0.8304,0.056,0.3652,1.7397,Linear Algebra|Deep Learning|System Design|Probability|Computer Vision|Data Structures|APIs|Statistics|Algorithms|NLP,Algorithms|System Design|Deep Learning,PROGRESSING
+STU0361,7.32,0.6934,0.6828,0.6983,0.692,0.7005,52.84,7,0.6304,0.004,0.5534,2.3606,OOP|Data Structures|Linear Algebra|NLP|Algorithms|Probability|APIs,Probability|Linear Algebra|Data Structures,PLATEAUING
+STU0362,6.21,0.8456,0.7666,0.8304,0.8711,0.9142,38.98,10,0.8558,0.0502,0.2016,1.1996,Python Basics|ML Fundamentals|OOP|APIs|Deep Learning|System Design|Algorithms|Probability|SQL|Statistics,Python Basics|System Design,PROGRESSING
+STU0363,8.76,0.4601,0.5124,0.4903,0.4408,0.3967,55.13,6,0.7071,-0.005,0.4122,2.9602,Deep Learning|Linear Algebra|System Design|Algorithms|Data Structures|Statistics,Deep Learning|Statistics,PLATEAUING
+STU0364,7.57,0.608,0.5817,0.5945,0.6302,0.6256,41.65,10,0.8254,0.0206,0.1913,1.3823,APIs|Statistics|NLP|OOP|Linear Algebra|Data Structures|ML Fundamentals|Algorithms|System Design|SQL,Statistics,PROGRESSING
+STU0365,5.83,0.9859,0.9558,0.9877,1.0,1.0,24.86,10,0.9059,0.0298,0.1394,1.0179,SQL|OOP|NLP|Python Basics|Computer Vision|APIs|ML Fundamentals|Algorithms|Deep Learning|Linear Algebra,Computer Vision,MASTERED
+STU0366,6.34,0.582,0.5823,0.573,0.5747,0.5982,42.08,8,0.6008,0.0046,0.3849,1.7767,Deep Learning|NLP|System Design|Python Basics|Computer Vision|APIs|Probability|ML Fundamentals,NLP|Deep Learning|ML Fundamentals,PLATEAUING
+STU0367,7.25,0.9112,0.8959,0.8799,0.9121,0.9568,26.75,9,0.9539,0.0184,0.1993,0.8321,Data Structures|APIs|Computer Vision|Python Basics|OOP|Probability|System Design|Statistics|ML Fundamentals,ML Fundamentals,MASTERED
+STU0368,7.66,0.9127,0.8848,0.8931,0.9303,0.9426,28.74,9,0.9432,0.0264,0.2221,0.3625,SQL|APIs|OOP|Python Basics|Statistics|Probability|Linear Algebra|NLP|ML Fundamentals,SQL,MASTERED
+STU0369,7.69,0.2841,0.3181,0.2935,0.2758,0.2489,74.4,4,0.4804,-0.0216,0.7283,3.5385,Probability|Linear Algebra|ML Fundamentals|System Design,ML Fundamentals|Linear Algebra,STRUGGLING
+STU0370,5.72,0.1035,0.1511,0.1224,0.0893,0.0511,92.3,4,0.6352,-0.0405,0.7842,2.6963,Probability|Algorithms|System Design|Statistics,Algorithms|Statistics|System Design,STRUGGLING
+STU0371,7.38,0.1115,0.2048,0.1411,0.05,0.05,68.2,3,0.5927,-0.0693,0.663,3.8082,NLP|Linear Algebra|Deep Learning,Deep Learning,STRUGGLING
+STU0372,8.83,0.1761,0.227,0.2316,0.1609,0.0851,82.29,2,0.5239,-0.0599,0.6437,3.8783,Probability|Deep Learning,Probability,STRUGGLING
+STU0373,9.75,0.1295,0.1919,0.1397,0.1326,0.0536,63.12,4,0.5279,-0.0337,0.6804,2.847,NLP|Computer Vision|APIs|System Design,NLP|System Design,STRUGGLING
+STU0374,8.59,0.6918,0.6285,0.6699,0.7071,0.7616,40.53,8,0.7326,0.066,0.3149,1.476,Data Structures|OOP|ML Fundamentals|Computer Vision|SQL|Deep Learning|APIs|Statistics,Deep Learning|Statistics,PROGRESSING
+STU0375,9.36,0.2123,0.2866,0.2543,0.1716,0.1367,73.17,3,0.4547,-0.0213,0.5553,3.479,Deep Learning|Data Structures|Linear Algebra,Deep Learning,STRUGGLING
+STU0376,9.56,0.696,0.6735,0.7153,0.7061,0.689,56.97,7,0.7313,0.0007,0.5152,1.6729,SQL|APIs|OOP|Statistics|Algorithms|Deep Learning|Probability,APIs|Statistics|Algorithms,PLATEAUING
+STU0377,7.3,0.987,0.9482,1.0,1.0,1.0,25.95,11,0.9402,0.0081,0.1506,1.3438,Linear Algebra|Computer Vision|APIs|System Design|Deep Learning|Python Basics|SQL|OOP|Data Structures|ML Fundamentals|Probability,Computer Vision,MASTERED
+STU0378,5.72,0.298,0.3987,0.3217,0.2825,0.1893,76.9,5,0.463,-0.0637,0.7601,3.6489,ML Fundamentals|Algorithms|System Design|SQL|Data Structures,Algorithms|Data Structures|ML Fundamentals,STRUGGLING
+STU0379,8.19,0.9994,0.9975,1.0,1.0,1.0,16.3,10,0.9257,0.0345,0.1297,0.9324,Linear Algebra|ML Fundamentals|SQL|Algorithms|Deep Learning|OOP|Statistics|System Design|Computer Vision|Python Basics,Python Basics,MASTERED
+STU0380,6.02,0.6126,0.6176,0.6042,0.6291,0.5994,34.2,5,0.772,0.0007,0.5591,2.6369,ML Fundamentals|Computer Vision|Statistics|NLP|SQL,SQL|NLP,PLATEAUING
+STU0381,5.57,0.1468,0.2008,0.1754,0.1377,0.0734,59.94,5,0.4121,-0.0432,0.6693,2.8824,Computer Vision|NLP|APIs|SQL|OOP,APIs|NLP|Computer Vision,STRUGGLING
+STU0382,6.41,0.8483,0.7247,0.8217,0.8912,0.9556,28.25,10,0.7537,0.086,0.2243,0.9144,Probability|Linear Algebra|Computer Vision|Algorithms|NLP|ML Fundamentals|Deep Learning|System Design|Statistics|OOP,Linear Algebra|System Design,PROGRESSING
+STU0383,6.84,0.7931,0.6776,0.7391,0.8417,0.9138,35.23,7,0.807,0.0801,0.2908,1.2475,Algorithms|APIs|Python Basics|System Design|Computer Vision|Deep Learning|Probability,APIs|Probability,PROGRESSING
+STU0384,6.85,0.9851,0.9555,0.985,1.0,1.0,10.79,10,0.915,0.0373,0.1999,0.4979,System Design|Algorithms|NLP|Data Structures|Linear Algebra|Probability|Statistics|Computer Vision|OOP|ML Fundamentals,NLP,MASTERED
+STU0385,9.38,0.7873,0.6726,0.7619,0.8157,0.8989,38.67,8,0.7351,0.0653,0.3144,1.2449,NLP|Algorithms|Deep Learning|APIs|Python Basics|Linear Algebra|Probability|Data Structures,Data Structures|APIs,PROGRESSING
+STU0386,9.22,0.9371,0.9354,0.9427,0.9294,0.9407,20.01,13,0.8351,0.018,0.1305,0.4557,Statistics|Deep Learning|APIs|ML Fundamentals|SQL|Python Basics|Probability|Computer Vision|Data Structures|System Design|OOP|NLP|Algorithms,NLP,MASTERED
+STU0387,7.81,0.7261,0.6906,0.7151,0.7479,0.751,33.21,5,0.7627,-0.0165,0.5556,2.3263,Linear Algebra|Probability|OOP|Data Structures|Deep Learning,Data Structures|Deep Learning,PLATEAUING
+STU0388,8.91,0.3462,0.374,0.3546,0.3325,0.3238,71.52,5,0.6201,-0.0064,0.5851,2.6024,ML Fundamentals|Linear Algebra|System Design|Algorithms|OOP,Algorithms|ML Fundamentals,STRUGGLING
+STU0389,8.58,0.8414,0.7078,0.8161,0.8969,0.9449,39.63,10,0.8092,0.0707,0.2128,1.826,Algorithms|Python Basics|SQL|Linear Algebra|Deep Learning|APIs|Computer Vision|Statistics|System Design|NLP,System Design|Statistics,PROGRESSING
+STU0390,8.66,0.8952,0.8614,0.8673,0.9195,0.9328,14.45,11,0.9283,0.0057,0.0717,0.8147,Algorithms|Data Structures|Linear Algebra|SQL|Computer Vision|Statistics|NLP|OOP|Python Basics|APIs|Probability,Data Structures,MASTERED
+STU0391,6.42,0.9298,0.9139,0.9319,0.9589,0.9144,15.01,10,0.9075,0.0017,0.1783,1.1815,Data Structures|Statistics|OOP|Computer Vision|System Design|Probability|Algorithms|Python Basics|SQL|ML Fundamentals,OOP,MASTERED
+STU0392,8.47,0.6671,0.6515,0.6776,0.6848,0.6544,49.0,5,0.7954,-0.0077,0.3905,2.0795,Python Basics|Computer Vision|OOP|SQL|NLP,Computer Vision,PLATEAUING
+STU0393,7.21,0.6886,0.6871,0.6788,0.7202,0.6685,53.57,6,0.6329,-0.0013,0.5121,3.0176,Linear Algebra|SQL|Computer Vision|Data Structures|Algorithms|Probability,Data Structures|Linear Algebra|Computer Vision,PLATEAUING
+STU0394,7.83,0.7636,0.6657,0.7233,0.8076,0.8579,34.41,6,0.7758,0.0941,0.3805,0.9476,NLP|Deep Learning|Computer Vision|Python Basics|System Design|ML Fundamentals,ML Fundamentals|Deep Learning,PROGRESSING
+STU0395,6.24,0.6723,0.6901,0.7065,0.6554,0.6373,44.94,7,0.8231,-0.0136,0.4001,2.5062,Data Structures|Deep Learning|Python Basics|Probability|APIs|Algorithms|SQL,Deep Learning|APIs,PLATEAUING
+STU0396,6.72,0.9847,0.9566,0.9967,1.0,0.9855,24.07,9,0.8957,0.0476,0.1905,0.7106,Linear Algebra|Deep Learning|NLP|Statistics|OOP|Computer Vision|Python Basics|System Design|SQL,NLP,MASTERED
+STU0397,7.9,1.0,1.0,1.0,1.0,1.0,17.99,9,0.9598,0.0236,0.1419,0.8297,Probability|ML Fundamentals|Python Basics|Linear Algebra|Algorithms|Computer Vision|System Design|NLP|OOP,Probability,MASTERED
+STU0398,6.52,0.5666,0.6176,0.5894,0.5521,0.5073,50.93,8,0.6588,-0.0205,0.378,2.0722,APIs|OOP|Probability|Data Structures|Computer Vision|Statistics|Algorithms|Linear Algebra,Data Structures|Computer Vision|APIs,PLATEAUING
+STU0399,5.54,0.8661,0.7561,0.8158,0.9174,0.9753,44.42,8,0.7101,0.0777,0.3521,1.1379,Probability|Statistics|NLP|Computer Vision|Deep Learning|Linear Algebra|Data Structures|System Design,Data Structures|Deep Learning,PROGRESSING
+STU0400,6.39,0.9093,0.8348,0.8856,0.9369,0.98,25.67,9,0.9118,0.0558,0.3299,2.0327,Linear Algebra|NLP|System Design|Data Structures|SQL|Statistics|OOP|Algorithms|Probability,SQL|Algorithms,PROGRESSING
+STU0401,9.59,0.3028,0.4292,0.3468,0.2584,0.1769,85.48,2,0.4189,-0.0568,0.6193,3.1259,SQL|OOP,SQL,STRUGGLING
+STU0402,7.56,0.9829,0.965,0.9723,0.9944,1.0,30.26,13,0.8897,0.0303,0.07,0.1,Computer Vision|APIs|NLP|System Design|Deep Learning|Python Basics|Statistics|ML Fundamentals|Probability|Algorithms|Data Structures|SQL|Linear Algebra,ML Fundamentals,MASTERED
+STU0403,6.71,0.891,0.8052,0.8552,0.9269,0.9765,33.84,7,0.9084,0.0478,0.2944,1.6313,Computer Vision|Probability|OOP|Linear Algebra|SQL|ML Fundamentals|Python Basics,Probability|Computer Vision,PROGRESSING
+STU0404,6.78,0.9152,0.8768,0.9089,0.9096,0.9653,28.22,11,0.9608,0.0473,0.0192,0.364,NLP|Linear Algebra|OOP|ML Fundamentals|Deep Learning|Probability|Computer Vision|SQL|Data Structures|Algorithms|APIs,Linear Algebra,MASTERED
+STU0405,9.05,0.4711,0.5335,0.5015,0.4536,0.396,35.96,5,0.6993,-0.0094,0.5129,1.3223,Algorithms|System Design|APIs|NLP|Statistics,APIs|Statistics,PLATEAUING
+STU0406,8.4,0.9925,0.9698,1.0,1.0,1.0,12.99,9,0.9592,0.0311,0.025,0.9076,Probability|Statistics|Deep Learning|ML Fundamentals|Algorithms|APIs|Linear Algebra|SQL|Python Basics,ML Fundamentals,MASTERED
+STU0407,6.74,0.6154,0.6669,0.6413,0.5809,0.5725,51.32,5,0.6251,-0.004,0.4286,1.9841,OOP|Statistics|Computer Vision|NLP|Python Basics,Python Basics|OOP,PLATEAUING
+STU0408,7.79,0.1271,0.171,0.1166,0.1235,0.0972,86.21,4,0.5134,-0.0323,0.7741,3.4141,Data Structures|Python Basics|OOP|APIs,APIs|OOP|Python Basics,STRUGGLING
+STU0409,6.96,0.9576,0.8975,0.9472,0.9857,1.0,6.76,10,0.982,0.0095,0.1326,0.1,Deep Learning|OOP|ML Fundamentals|APIs|Python Basics|Probability|Computer Vision|NLP|System Design|Statistics,Statistics,MASTERED
+STU0410,6.49,0.1764,0.3013,0.2113,0.1317,0.0611,78.62,4,0.4786,-0.0657,0.7189,3.5063,Computer Vision|System Design|OOP|ML Fundamentals,Computer Vision|System Design,STRUGGLING
+STU0411,5.77,0.6206,0.5725,0.624,0.6429,0.6429,60.65,8,0.6168,-0.0129,0.3688,2.149,Linear Algebra|Probability|System Design|SQL|OOP|Deep Learning|NLP|Computer Vision,Deep Learning|Computer Vision,PLATEAUING
+STU0412,9.51,0.99,0.9998,1.0,0.9661,0.9943,11.38,10,0.92,0.0082,0.1314,0.6068,Linear Algebra|Computer Vision|APIs|Data Structures|NLP|Deep Learning|Algorithms|System Design|SQL|Statistics,Deep Learning,MASTERED
+STU0413,8.94,0.9478,0.9073,0.9533,0.9531,0.9776,24.66,10,0.9092,0.0331,0.1267,0.4946,Probability|SQL|Deep Learning|Python Basics|System Design|APIs|OOP|Statistics|Computer Vision|ML Fundamentals,Probability,MASTERED
+STU0414,7.99,0.773,0.77,0.7653,0.7742,0.7823,37.58,8,0.7717,0.0233,0.1909,0.8674,ML Fundamentals|OOP|APIs|SQL|Linear Algebra|System Design|Statistics|Python Basics,ML Fundamentals,PROGRESSING
+STU0415,5.7,0.6799,0.6468,0.6683,0.6756,0.7289,31.94,10,0.8565,0.02,0.2164,1.7081,Python Basics|Statistics|Deep Learning|Linear Algebra|Probability|OOP|ML Fundamentals|APIs|System Design|Data Structures,System Design|Data Structures,PROGRESSING
+STU0416,7.88,0.6507,0.6657,0.6555,0.6494,0.6322,49.03,6,0.6717,-0.0017,0.4861,2.4516,APIs|NLP|SQL|Python Basics|OOP|Probability,OOP|Probability,PLATEAUING
+STU0417,7.77,0.6448,0.6536,0.6272,0.6503,0.6481,47.74,5,0.6466,-0.004,0.4475,1.6222,NLP|APIs|Computer Vision|ML Fundamentals|OOP,APIs|NLP,PLATEAUING
+STU0418,7.9,0.53,0.5453,0.5038,0.5338,0.5372,59.82,6,0.7472,-0.0049,0.4389,1.9321,Data Structures|SQL|System Design|Probability|Statistics|Algorithms,Statistics|Probability,PLATEAUING
+STU0419,7.43,0.9221,0.8363,0.9032,0.95,0.9989,33.37,6,0.7205,0.052,0.2202,1.1752,Deep Learning|Data Structures|SQL|Computer Vision|Statistics|OOP,Statistics,PROGRESSING
+STU0420,8.7,0.8162,0.7374,0.8029,0.8113,0.9134,43.93,7,0.8362,0.0626,0.3009,1.4418,OOP|Computer Vision|NLP|APIs|Data Structures|SQL|Statistics,Data Structures|Statistics,PROGRESSING
+STU0421,6.06,0.8942,0.7876,0.8755,0.9359,0.9779,44.63,6,0.8304,0.0806,0.206,2.1496,Probability|Deep Learning|OOP|Statistics|Data Structures|ML Fundamentals,Deep Learning,PROGRESSING
+STU0422,7.9,0.8208,0.7722,0.804,0.827,0.8802,37.47,6,0.6905,0.0492,0.3594,1.4489,APIs|OOP|Linear Algebra|Deep Learning|Computer Vision|Probability,OOP|Linear Algebra,PROGRESSING
+STU0423,7.63,0.1238,0.1939,0.1371,0.1027,0.0617,56.57,5,0.4996,-0.0592,0.7419,3.7496,NLP|SQL|Statistics|Deep Learning|Computer Vision,Computer Vision|SQL|Statistics,STRUGGLING
+STU0424,8.75,0.6882,0.6803,0.6831,0.684,0.7052,46.28,6,0.6557,-0.0299,0.4206,2.8092,SQL|Linear Algebra|System Design|Statistics|Deep Learning|NLP,Linear Algebra|Statistics,PLATEAUING
+STU0425,6.25,0.1216,0.1648,0.1346,0.1046,0.0823,84.1,3,0.475,-0.0006,0.585,4.077,System Design|Statistics|Python Basics,System Design,STRUGGLING
+STU0426,9.24,0.7791,0.711,0.7408,0.8081,0.8564,22.01,6,0.6594,0.0509,0.2934,1.3102,ML Fundamentals|Data Structures|SQL|Probability|Computer Vision|Python Basics,Data Structures,PROGRESSING
+STU0427,5.67,0.5697,0.5268,0.5349,0.5673,0.6499,43.09,8,0.6433,0.0147,0.4205,2.6275,Computer Vision|Deep Learning|Probability|System Design|Linear Algebra|NLP|Data Structures|OOP,Probability|Data Structures|Computer Vision,PLATEAUING
+STU0428,5.95,0.9784,0.9423,0.9711,1.0,1.0,23.48,10,0.9562,0.0257,0.0994,0.2037,Probability|Computer Vision|Linear Algebra|Algorithms|System Design|SQL|Deep Learning|Statistics|ML Fundamentals|Python Basics,ML Fundamentals,MASTERED
+STU0429,8.74,0.5905,0.5491,0.5697,0.6073,0.636,52.06,8,0.7453,0.0084,0.5571,2.4846,OOP|SQL|APIs|Deep Learning|System Design|NLP|ML Fundamentals|Probability,Probability|System Design|APIs|NLP,PLATEAUING
+STU0430,5.63,0.3007,0.3599,0.3292,0.2971,0.2166,62.33,5,0.5596,-0.0388,0.7484,3.6185,ML Fundamentals|Computer Vision|SQL|Probability|APIs,Computer Vision|SQL|Probability,STRUGGLING
+STU0431,7.98,0.1576,0.1972,0.1929,0.1704,0.07,56.94,2,0.5371,-0.0592,0.5794,3.0719,NLP|SQL,NLP,STRUGGLING
+STU0432,6.32,0.8739,0.7828,0.8299,0.8957,0.9871,31.23,7,0.8089,0.0578,0.2349,2.0589,OOP|SQL|Deep Learning|ML Fundamentals|Computer Vision|APIs|NLP,ML Fundamentals,PROGRESSING
+STU0433,6.9,0.8521,0.8124,0.8382,0.8562,0.9015,46.01,10,0.7969,0.0106,0.2178,1.7868,System Design|Probability|OOP|SQL|Statistics|ML Fundamentals|Python Basics|APIs|Computer Vision|Linear Algebra,Linear Algebra|Computer Vision,PROGRESSING
+STU0434,6.3,0.4454,0.4513,0.4479,0.4188,0.4636,63.31,5,0.4793,-0.0003,0.5562,2.6193,Statistics|Linear Algebra|ML Fundamentals|Deep Learning|APIs,Deep Learning|Statistics,STRUGGLING
+STU0435,6.83,0.228,0.2793,0.2607,0.2022,0.1697,69.59,2,0.4283,-0.0443,0.6248,3.7123,APIs|OOP,OOP,STRUGGLING
+STU0436,6.23,0.8747,0.7879,0.8478,0.8933,0.97,33.23,8,0.8022,0.0503,0.3377,1.7789,Deep Learning|Computer Vision|ML Fundamentals|Probability|Algorithms|Linear Algebra|Statistics|NLP,Algorithms|Probability,PROGRESSING
+STU0437,8.27,0.2806,0.2867,0.272,0.2943,0.2695,59.07,4,0.644,-0.0289,0.564,2.9044,ML Fundamentals|Computer Vision|Algorithms|Statistics,Computer Vision|ML Fundamentals,STRUGGLING
+STU0438,9.49,0.9657,0.9588,0.9558,0.9484,1.0,14.71,11,0.91,0.008,0.1818,0.9491,SQL|ML Fundamentals|NLP|Statistics|Data Structures|Computer Vision|System Design|APIs|Linear Algebra|OOP|Deep Learning,Statistics,MASTERED
+STU0439,7.16,0.9797,0.9223,0.9966,1.0,1.0,27.86,9,0.862,0.0815,0.2096,2.0516,ML Fundamentals|Statistics|Probability|Python Basics|SQL|APIs|OOP|System Design|Algorithms,APIs,PROGRESSING
+STU0440,8.53,0.4033,0.4159,0.438,0.4009,0.3583,74.33,2,0.5174,-0.0184,0.7683,3.9637,NLP|SQL,NLP,STRUGGLING
+STU0441,9.21,0.2306,0.225,0.2292,0.2455,0.2225,57.64,5,0.5367,-0.0208,0.761,3.8344,Linear Algebra|Python Basics|APIs|Computer Vision|ML Fundamentals,ML Fundamentals|Computer Vision|APIs,STRUGGLING
+STU0442,6.24,0.9954,0.9816,1.0,1.0,1.0,19.72,9,0.9182,0.0244,0.1488,0.2571,SQL|Probability|Linear Algebra|APIs|Statistics|System Design|Python Basics|Computer Vision|NLP,Statistics,MASTERED
+STU0443,7.76,0.6118,0.5734,0.6065,0.6201,0.6472,56.06,7,0.7853,0.0096,0.5161,2.7616,Linear Algebra|SQL|Data Structures|Algorithms|ML Fundamentals|Probability|Python Basics,SQL|ML Fundamentals|Linear Algebra,PLATEAUING
+STU0444,7.58,0.556,0.5323,0.5167,0.5808,0.5941,46.69,8,0.608,0.0061,0.4175,2.4516,Computer Vision|APIs|SQL|Data Structures|Probability|Algorithms|NLP|Python Basics,APIs|SQL|Computer Vision,PLATEAUING
+STU0445,5.99,0.8561,0.8635,0.8545,0.8464,0.8602,10.61,9,0.9322,0.0265,0.1912,0.4856,Probability|Data Structures|SQL|Algorithms|Python Basics|Linear Algebra|Deep Learning|Computer Vision|NLP,SQL,MASTERED
+STU0446,6.55,1.0,1.0,1.0,1.0,1.0,17.14,11,0.8681,0.0327,0.156,0.1937,Deep Learning|ML Fundamentals|Algorithms|System Design|OOP|SQL|Computer Vision|NLP|APIs|Python Basics|Linear Algebra,NLP,MASTERED
+STU0447,6.83,0.9899,0.9744,0.985,1.0,1.0,23.99,10,0.9724,0.0083,0.0389,1.1074,Probability|OOP|Statistics|NLP|Deep Learning|SQL|Data Structures|System Design|Linear Algebra|ML Fundamentals,Linear Algebra,MASTERED
+STU0448,9.73,0.7872,0.7144,0.7738,0.7982,0.8622,32.78,10,0.8143,0.0479,0.2507,2.1255,Python Basics|System Design|Algorithms|APIs|SQL|Probability|OOP|NLP|Data Structures|ML Fundamentals,SQL|Data Structures,PROGRESSING
+STU0449,9.72,0.6042,0.6184,0.6255,0.592,0.5809,48.07,8,0.673,0.0005,0.4371,1.786,Linear Algebra|Deep Learning|System Design|Computer Vision|Algorithms|Data Structures|OOP|Statistics,Computer Vision|OOP|Linear Algebra,PLATEAUING
+STU0450,9.36,0.1478,0.1971,0.1681,0.1314,0.0945,86.12,5,0.5893,-0.0349,0.5533,3.2448,Statistics|Algorithms|Python Basics|SQL|Computer Vision,Computer Vision|SQL,STRUGGLING
+STU0451,8.25,0.7882,0.6739,0.7435,0.8199,0.9153,41.46,6,0.7428,0.0419,0.3843,1.009,System Design|Computer Vision|ML Fundamentals|SQL|OOP|Probability,SQL|Computer Vision,PROGRESSING
+STU0452,8.58,0.813,0.7833,0.8131,0.8122,0.8434,31.52,9,0.8801,0.0178,0.3684,1.7452,Linear Algebra|NLP|Deep Learning|Computer Vision|APIs|Algorithms|Python Basics|Statistics|SQL,Algorithms|Python Basics|APIs,PROGRESSING
+STU0453,5.74,0.5676,0.5457,0.587,0.5754,0.5623,42.85,6,0.7765,0.0069,0.4914,2.8848,OOP|Linear Algebra|SQL|APIs|Python Basics|Statistics,Python Basics|Statistics,PLATEAUING
+STU0454,9.46,0.9704,0.9348,0.9534,0.9934,1.0,20.31,13,0.8593,0.0126,0.1108,0.134,Deep Learning|NLP|OOP|SQL|System Design|ML Fundamentals|Python Basics|Algorithms|Computer Vision|Probability|Linear Algebra|Statistics|Data Structures,Probability,MASTERED
+STU0455,9.23,0.5105,0.5042,0.5188,0.5164,0.5026,79.64,5,0.5564,0.0082,0.6967,3.5299,Probability|Python Basics|System Design|Data Structures|APIs,Data Structures|Probability|System Design,STRUGGLING
+STU0456,9.54,0.6927,0.669,0.693,0.6988,0.7099,32.73,6,0.6263,0.0175,0.4507,2.9437,Data Structures|Linear Algebra|NLP|Python Basics|System Design|OOP,NLP|Python Basics,PLATEAUING
+STU0457,6.66,0.085,0.1483,0.0916,0.0502,0.05,77.05,5,0.5572,-0.0613,0.6325,3.6334,Deep Learning|OOP|Computer Vision|Linear Algebra|Algorithms,Linear Algebra|Computer Vision|Deep Learning,STRUGGLING
+STU0458,6.03,0.6528,0.6355,0.6112,0.6672,0.6972,51.34,8,0.7194,0.0232,0.481,1.9602,SQL|Algorithms|Probability|APIs|Deep Learning|Python Basics|Linear Algebra|System Design,Deep Learning|Python Basics|Algorithms,PLATEAUING
+STU0459,9.24,0.3568,0.3807,0.3655,0.3358,0.3451,53.96,5,0.4659,-0.0285,0.5887,2.2856,Deep Learning|Data Structures|OOP|APIs|ML Fundamentals,Deep Learning|APIs,STRUGGLING
+STU0460,8.38,0.2209,0.2465,0.2335,0.2139,0.1896,55.62,2,0.5003,-0.0591,0.6742,2.2658,ML Fundamentals|Python Basics,Python Basics,STRUGGLING
+STU0461,6.98,0.1681,0.2532,0.1879,0.1488,0.0825,83.29,4,0.453,-0.0399,0.685,3.2943,System Design|Python Basics|Computer Vision|NLP,NLP|Python Basics,STRUGGLING
+STU0462,9.32,0.7333,0.7027,0.7122,0.7695,0.7489,37.45,10,0.7169,0.045,0.2728,2.0136,SQL|Data Structures|Linear Algebra|Python Basics|Algorithms|APIs|Deep Learning|ML Fundamentals|System Design|Statistics,APIs|Linear Algebra,PROGRESSING
+STU0463,5.86,0.9091,0.7971,0.8924,0.9467,1.0,32.76,8,0.7732,0.0667,0.2714,1.408,Linear Algebra|Deep Learning|Computer Vision|SQL|Data Structures|NLP|System Design|OOP,Computer Vision|OOP,PROGRESSING
+STU0464,8.44,0.7867,0.7004,0.7614,0.8298,0.8554,35.75,9,0.7402,0.0503,0.3531,0.8901,OOP|Computer Vision|Algorithms|Statistics|System Design|Probability|Deep Learning|Python Basics|NLP,Python Basics|Computer Vision|Statistics,PROGRESSING
+STU0465,9.56,0.9946,0.984,0.9944,1.0,1.0,13.47,10,0.8407,0.0066,0.1249,0.6354,System Design|Linear Algebra|ML Fundamentals|Statistics|Probability|NLP|Computer Vision|Python Basics|APIs|Deep Learning,Computer Vision,MASTERED
+STU0466,6.3,0.6737,0.6861,0.6938,0.6589,0.6561,36.32,7,0.6649,-0.0075,0.5431,2.2512,Algorithms|SQL|System Design|Python Basics|Statistics|Probability|Linear Algebra,SQL|Algorithms|Linear Algebra,PLATEAUING
+STU0467,9.73,0.6649,0.6345,0.6448,0.6858,0.6945,56.67,6,0.7022,0.0116,0.4245,2.1648,Algorithms|NLP|Probability|Deep Learning|Python Basics|Data Structures,NLP|Python Basics,PLATEAUING
+STU0468,7.0,0.9308,0.8597,0.9134,0.9523,0.9977,16.17,11,0.9601,0.0052,0.067,1.1373,OOP|Algorithms|Data Structures|SQL|System Design|NLP|APIs|ML Fundamentals|Statistics|Deep Learning|Probability,ML Fundamentals,MASTERED
+STU0469,5.57,0.3916,0.4382,0.4419,0.3632,0.3232,82.51,4,0.5838,-0.0527,0.5918,2.6304,NLP|Data Structures|Deep Learning|SQL,NLP|Deep Learning,STRUGGLING
+STU0470,7.12,0.9374,0.8792,0.932,0.9597,0.9786,28.46,11,0.8562,0.0218,0.1797,0.7543,Python Basics|OOP|NLP|Statistics|ML Fundamentals|APIs|Linear Algebra|Data Structures|Deep Learning|Algorithms|Computer Vision,APIs,MASTERED
+STU0471,9.08,0.2549,0.325,0.2913,0.2352,0.1679,55.65,4,0.522,-0.0539,0.7898,3.4643,ML Fundamentals|SQL|Algorithms|Probability,SQL|ML Fundamentals|Algorithms,STRUGGLING
+STU0472,6.9,0.9842,0.9554,0.9813,1.0,1.0,21.0,10,0.94,0.004,0.1904,0.5841,SQL|OOP|NLP|Deep Learning|APIs|Probability|ML Fundamentals|Algorithms|Python Basics|Data Structures,Probability,MASTERED
+STU0473,7.09,0.3483,0.3804,0.3536,0.3587,0.3004,58.54,5,0.6793,-0.0054,0.6242,3.4747,NLP|Statistics|Deep Learning|Data Structures|ML Fundamentals,ML Fundamentals|Statistics|NLP,STRUGGLING
+STU0474,7.79,0.9767,1.0,0.9951,0.9527,0.9589,20.21,9,0.883,-0.0027,0.1439,0.9516,Algorithms|Python Basics|APIs|Computer Vision|Linear Algebra|Data Structures|Probability|NLP|Statistics,Statistics,MASTERED
+STU0475,9.07,0.7521,0.6769,0.7052,0.7593,0.8672,32.56,6,0.8879,0.0691,0.28,1.7946,Probability|APIs|ML Fundamentals|Linear Algebra|NLP|Deep Learning,Linear Algebra,PROGRESSING
+STU0476,6.89,0.9909,0.9734,0.9914,0.9989,1.0,8.72,10,0.9137,0.0056,0.1544,0.8867,NLP|SQL|APIs|OOP|Statistics|Data Structures|Python Basics|Computer Vision|Deep Learning|Probability,Statistics,MASTERED
+STU0477,7.93,0.2555,0.3359,0.2979,0.2522,0.1359,80.15,5,0.567,-0.0739,0.5839,3.4836,Probability|System Design|APIs|Linear Algebra|Data Structures,Data Structures|Probability,STRUGGLING
+STU0478,6.29,0.8825,0.7703,0.8403,0.9193,1.0,25.56,6,0.8108,0.0737,0.3987,1.2798,Probability|NLP|OOP|Computer Vision|Python Basics|Data Structures,NLP|Probability,PROGRESSING
+STU0479,5.95,0.9673,0.9196,0.9623,0.9873,1.0,25.17,9,0.9915,0.0191,0.1329,0.6543,Deep Learning|Probability|SQL|Algorithms|Data Structures|System Design|APIs|OOP|ML Fundamentals,OOP,MASTERED
+STU0480,5.71,0.6881,0.611,0.6453,0.7093,0.7869,34.09,8,0.746,0.0688,0.4231,0.9396,Python Basics|Algorithms|System Design|NLP|Data Structures|APIs|Statistics|SQL,System Design|SQL|Python Basics,PROGRESSING
+STU0481,7.97,0.9124,0.8435,0.8945,0.9216,0.99,37.95,7,0.7187,0.0812,0.2049,1.295,Probability|Linear Algebra|Algorithms|Data Structures|APIs|NLP|Python Basics,Data Structures,PROGRESSING
+STU0482,9.25,0.9205,0.8337,0.8678,0.9806,1.0,47.14,9,0.7846,0.0594,0.2751,1.1919,Deep Learning|SQL|Python Basics|Computer Vision|ML Fundamentals|NLP|Statistics|Probability|Linear Algebra,Probability|Python Basics,PROGRESSING
+STU0483,6.74,0.6188,0.5629,0.6236,0.6473,0.6415,56.07,5,0.7562,0.0058,0.4123,3.0333,System Design|NLP|Deep Learning|Python Basics|Data Structures,Deep Learning|NLP,PLATEAUING
+STU0484,9.76,0.6097,0.5754,0.6227,0.6113,0.6294,27.07,7,0.7328,0.0425,0.2012,1.157,Statistics|Computer Vision|Algorithms|ML Fundamentals|Linear Algebra|NLP|Probability,Algorithms,PROGRESSING
+STU0485,7.86,0.7086,0.6817,0.6945,0.7101,0.7483,43.14,10,0.9034,0.0473,0.37,1.8708,Computer Vision|SQL|Linear Algebra|System Design|OOP|Statistics|Python Basics|Probability|Deep Learning|ML Fundamentals,System Design|Deep Learning|OOP,PROGRESSING
+STU0486,6.65,0.8945,0.9262,0.8722,0.8776,0.902,23.02,12,0.8964,-0.0038,0.1626,0.9343,Computer Vision|Deep Learning|Probability|ML Fundamentals|APIs|OOP|Algorithms|Python Basics|Statistics|NLP|SQL|System Design,System Design,MASTERED
+STU0487,7.19,0.0725,0.1355,0.0545,0.05,0.05,60.09,3,0.3802,-0.0862,0.757,4.1445,Python Basics|Probability|Linear Algebra,Probability|Python Basics,STRUGGLING
+STU0488,8.56,0.6011,0.621,0.6143,0.5814,0.5879,44.96,6,0.7405,-0.0197,0.3674,2.7763,Linear Algebra|System Design|NLP|Python Basics|Probability|Statistics,NLP|System Design,PLATEAUING
+STU0489,5.68,0.9581,0.8995,0.9461,0.9867,1.0,13.9,12,0.9236,0.0566,0.0845,0.7415,Data Structures|Linear Algebra|ML Fundamentals|APIs|Probability|Computer Vision|OOP|Algorithms|Deep Learning|NLP|Statistics|Python Basics,Linear Algebra,MASTERED
+STU0490,7.0,0.882,0.8955,0.8797,0.867,0.8857,19.14,11,0.9194,0.0141,0.1487,1.1576,APIs|OOP|Deep Learning|Computer Vision|Linear Algebra|Statistics|Python Basics|Data Structures|SQL|Probability|NLP,Data Structures,MASTERED
+STU0491,9.1,0.6151,0.5949,0.6042,0.621,0.6404,39.45,5,0.7176,0.0051,0.4511,2.4534,Statistics|ML Fundamentals|OOP|Computer Vision|APIs,ML Fundamentals|OOP,PLATEAUING
+STU0492,7.61,0.8526,0.7731,0.8134,0.8822,0.9415,42.69,10,0.8728,0.0645,0.3958,1.1391,NLP|Probability|Python Basics|ML Fundamentals|Deep Learning|Algorithms|OOP|APIs|System Design|Linear Algebra,NLP|Linear Algebra|ML Fundamentals,PROGRESSING
+STU0493,8.14,0.66,0.6648,0.6459,0.6447,0.6845,34.16,6,0.6074,0.0147,0.4299,1.5405,Deep Learning|Python Basics|NLP|OOP|Computer Vision|Statistics,Deep Learning|NLP,PLATEAUING
+STU0494,7.53,0.3203,0.3075,0.3059,0.3147,0.3531,83.99,2,0.5214,0.001,0.6714,3.5099,ML Fundamentals|System Design,System Design,STRUGGLING
+STU0495,7.3,0.5121,0.503,0.5065,0.5429,0.4958,44.13,5,0.6716,0.0034,0.5045,1.9681,Statistics|System Design|Python Basics|SQL|NLP,Statistics|NLP,PLATEAUING
+STU0496,9.27,0.6564,0.6165,0.6564,0.6569,0.696,54.45,7,0.7053,0.0093,0.3863,2.3382,Python Basics|Statistics|NLP|Deep Learning|SQL|ML Fundamentals|Linear Algebra,ML Fundamentals|Python Basics,PLATEAUING
+STU0497,7.35,0.7444,0.6538,0.7277,0.7666,0.8296,22.15,6,0.7558,0.0393,0.2854,1.8736,Python Basics|ML Fundamentals|Data Structures|NLP|Statistics|APIs,ML Fundamentals,PROGRESSING
+STU0498,7.44,0.331,0.3683,0.3602,0.3235,0.2718,76.2,5,0.4064,-0.0179,0.7991,4.14,Deep Learning|System Design|OOP|Algorithms|Data Structures,System Design|Data Structures|Algorithms,STRUGGLING
+STU0499,8.29,0.9494,0.868,0.9294,1.0,1.0,15.38,10,0.9722,0.0286,0.1665,0.2482,Deep Learning|Linear Algebra|System Design|NLP|Python Basics|APIs|Computer Vision|ML Fundamentals|Statistics|OOP,Deep Learning,MASTERED
+STU0500,8.85,1.0,1.0,1.0,1.0,1.0,28.66,10,0.8637,0.0449,0.064,0.7782,Linear Algebra|Deep Learning|APIs|SQL|Python Basics|OOP|Statistics|ML Fundamentals|Algorithms|Probability,Statistics,MASTERED
